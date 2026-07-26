@@ -1,0 +1,85 @@
+[
+    {
+        "type": "text",
+        "text": "PRODUCT SPECIFICATION SHEET",
+        "text_level": 2,
+        "bbox": [
+            80,
+            66,
+            478,
+            87
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Product name: Romesco Sauce Base Supplier: Proveedora Catalana de Alimentacion Product code: SKU-86508 Batch/Lot no.: L2026322-572 Country of origin: Morocco Storage conditions: Store in a cool, dry place below 25C",
+        "bbox": [
+            78,
+            102,
+            475,
+            193
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ingredients:",
+        "text_level": 2,
+        "bbox": [
+            80,
+            208,
+            184,
+            224
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "egg lecithin, turmeric, oregano, rosemary, canola oil, lupin seeds, thyme, maltodextrin, leek.",
+        "bbox": [
+            78,
+            228,
+            700,
+            246
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b266cb370a75c8181c12edda96335372804a8b1e4e49951f59b6875c84c241c6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            78,
+            248,
+            860,
+            306
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/40e52bf0be53a92977ff5402bdab5fe636049338b2c5dc663a24644653af52fa.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            82,
+            344,
+            884,
+            370
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X = present T = may contain traces - = not present",
+        "bbox": [
+            80,
+            398,
+            405,
+            412
+        ],
+        "page_idx": 0
+    }
+]

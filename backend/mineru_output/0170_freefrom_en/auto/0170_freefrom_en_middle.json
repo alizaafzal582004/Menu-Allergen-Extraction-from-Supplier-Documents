@@ -1,0 +1,574 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.6409,
+                    "bbox": [
+                        146,
+                        64,
+                        448,
+                        83
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                147,
+                                66,
+                                446,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        147,
+                                        66,
+                                        446,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 1
+                },
+                {
+                    "score": 0.7391,
+                    "bbox": [
+                        54,
+                        90,
+                        248,
+                        103
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                92,
+                                244,
+                                102
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        92,
+                                        244,
+                                        102
+                                    ],
+                                    "type": "text",
+                                    "content": "Product name: Chicken Broth Concentrate",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7153,
+                    "bbox": [
+                        54,
+                        102,
+                        259,
+                        115
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                104,
+                                255,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        104,
+                                        255,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier: Aragon Central Kitchen Supply S.L.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7289,
+                    "bbox": [
+                        54,
+                        115,
+                        284,
+                        128
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                115,
+                                281,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        115,
+                                        281,
+                                        127
+                                    ],
+                                    "type": "text",
+                                    "content": "Country of origin: Netherlands Net weight: 10000 g",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8682,
+                    "bbox": [
+                        53,
+                        134,
+                        530,
+                        160
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                136,
+                                528,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        136,
+                                        528,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients: sunflower oil, black pepper, prawn stock, smoked paprika, corn starch, vinegar, dried parsley,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                148,
+                                114,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        148,
+                                        114,
+                                        157
+                                    ],
+                                    "type": "text",
+                                    "content": "maltodextrin.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7383,
+                    "bbox": [
+                        54,
+                        164,
+                        167,
+                        177
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                165,
+                                164,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        165,
+                                        164,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "Contains: Crustaceans.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7711,
+                    "bbox": [
+                        53,
+                        177,
+                        293,
+                        191
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                178,
+                                290,
+                                189
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        178,
+                                        290,
+                                        189
+                                    ],
+                                    "type": "text",
+                                    "content": "Free from: Eggs, Milk (including lactose), Soybeans.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.6409,
+                    "bbox": [
+                        146,
+                        64,
+                        448,
+                        83
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                147,
+                                66,
+                                446,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        147,
+                                        66,
+                                        446,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 1
+                },
+                {
+                    "score": 0.7391,
+                    "bbox": [
+                        54,
+                        90,
+                        248,
+                        103
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                92,
+                                244,
+                                102
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        92,
+                                        244,
+                                        102
+                                    ],
+                                    "type": "text",
+                                    "content": "Product name: Chicken Broth Concentrate",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        92,
+                        244,
+                        102
+                    ]
+                },
+                {
+                    "score": 0.7153,
+                    "bbox": [
+                        54,
+                        102,
+                        259,
+                        115
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                104,
+                                255,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        104,
+                                        255,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier: Aragon Central Kitchen Supply S.L.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        104,
+                        255,
+                        114
+                    ]
+                },
+                {
+                    "score": 0.7289,
+                    "bbox": [
+                        54,
+                        115,
+                        284,
+                        128
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                115,
+                                281,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        115,
+                                        281,
+                                        127
+                                    ],
+                                    "type": "text",
+                                    "content": "Country of origin: Netherlands Net weight: 10000 g",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        115,
+                        281,
+                        127
+                    ]
+                },
+                {
+                    "score": 0.8682,
+                    "bbox": [
+                        53,
+                        134,
+                        530,
+                        160
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                136,
+                                528,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        136,
+                                        528,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients: sunflower oil, black pepper, prawn stock, smoked paprika, corn starch, vinegar, dried parsley,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                148,
+                                114,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        148,
+                                        114,
+                                        157
+                                    ],
+                                    "type": "text",
+                                    "content": "maltodextrin.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        55,
+                        136,
+                        528,
+                        157
+                    ]
+                },
+                {
+                    "score": 0.7383,
+                    "bbox": [
+                        54,
+                        164,
+                        167,
+                        177
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                165,
+                                164,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        165,
+                                        164,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "Contains: Crustaceans.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        165,
+                        164,
+                        176
+                    ]
+                },
+                {
+                    "score": 0.7711,
+                    "bbox": [
+                        53,
+                        177,
+                        293,
+                        191
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                178,
+                                290,
+                                189
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        178,
+                                        290,
+                                        189
+                                    ],
+                                    "type": "text",
+                                    "content": "Free from: Eggs, Milk (including lactose), Soybeans.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        178,
+                        290,
+                        189
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

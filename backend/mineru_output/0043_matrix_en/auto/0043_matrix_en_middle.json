@@ -1,0 +1,860 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.8531,
+                    "bbox": [
+                        48,
+                        57,
+                        285,
+                        74
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                59,
+                                282,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        59,
+                                        282,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.7111,
+                    "bbox": [
+                        47,
+                        86,
+                        181,
+                        100
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                88,
+                                176,
+                                98
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        88,
+                                        176,
+                                        98
+                                    ],
+                                    "type": "text",
+                                    "content": "Product name: Custard Powder",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7031,
+                    "bbox": [
+                        48,
+                        101,
+                        187,
+                        115
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                104,
+                                185,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        104,
+                                        185,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier: Ibérica Food Supply Co.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6876,
+                    "bbox": [
+                        48,
+                        117,
+                        159,
+                        130
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                120,
+                                155,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        120,
+                                        155,
+                                        128
+                                    ],
+                                    "type": "text",
+                                    "content": "Product code: SKU-49546",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7201,
+                    "bbox": [
+                        47,
+                        133,
+                        275,
+                        146
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                136,
+                                273,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        136,
+                                        273,
+                                        145
+                                    ],
+                                    "type": "text",
+                                    "content": "Batch/Lot no.: L2026352-200 Country of origin: France",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.6914,
+                    "bbox": [
+                        47,
+                        149,
+                        260,
+                        162
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                151,
+                                256,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        151,
+                                        256,
+                                        160
+                                    ],
+                                    "type": "text",
+                                    "content": "Storage conditions: Store at 0-4C, keep refrigerated",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8387,
+                    "bbox": [
+                        48,
+                        175,
+                        110,
+                        189
+                    ],
+                    "index": 7,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                177,
+                                108,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        177,
+                                        108,
+                                        188
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8264,
+                    "bbox": [
+                        47,
+                        192,
+                        409,
+                        206
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                195,
+                                406,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        195,
+                                        406,
+                                        204
+                                    ],
+                                    "type": "text",
+                                    "content": "rosemary, coriander seed, thyme, olive oil, celeriac puree, rice flour, modified corn starch,",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        47,
+                        223,
+                        512,
+                        273
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8665,
+                            "bbox": [
+                                47,
+                                223,
+                                512,
+                                273
+                            ],
+                            "index": 9,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        223,
+                                        512,
+                                        273
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                47,
+                                                223,
+                                                512,
+                                                273
+                                            ],
+                                            "type": "image",
+                                            "image_path": "05a0c3eddadf5d8bc030f51be5c3087740347c17fe13620df0a47052388b78ca.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "score": 0.8665
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        49,
+                        304,
+                        526,
+                        326
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7536,
+                            "bbox": [
+                                49,
+                                304,
+                                526,
+                                326
+                            ],
+                            "index": 10,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        304,
+                                        526,
+                                        326
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                304,
+                                                526,
+                                                326
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c88ec915dba5c43a469d8fc86f9b0bd4ff5c49e0d12675584f5066a932674859.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "score": 0.7536
+                },
+                {
+                    "score": 0.849,
+                    "bbox": [
+                        47,
+                        349,
+                        241,
+                        362
+                    ],
+                    "index": 11,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                351,
+                                239,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        351,
+                                        239,
+                                        360
+                                    ],
+                                    "type": "text",
+                                    "content": "X = present T = may contain traces - = not present",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.8531,
+                    "bbox": [
+                        48,
+                        57,
+                        285,
+                        74
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                59,
+                                282,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        59,
+                                        282,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.7111,
+                    "bbox": [
+                        47,
+                        86,
+                        181,
+                        100
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                88,
+                                176,
+                                98
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        88,
+                                        176,
+                                        98
+                                    ],
+                                    "type": "text",
+                                    "content": "Product name: Custard Powder",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        50,
+                        88,
+                        176,
+                        98
+                    ]
+                },
+                {
+                    "score": 0.7031,
+                    "bbox": [
+                        48,
+                        101,
+                        187,
+                        115
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                104,
+                                185,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        104,
+                                        185,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier: Ibérica Food Supply Co.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        51,
+                        104,
+                        185,
+                        114
+                    ]
+                },
+                {
+                    "score": 0.6876,
+                    "bbox": [
+                        48,
+                        117,
+                        159,
+                        130
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                120,
+                                155,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        120,
+                                        155,
+                                        128
+                                    ],
+                                    "type": "text",
+                                    "content": "Product code: SKU-49546",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        50,
+                        120,
+                        155,
+                        128
+                    ]
+                },
+                {
+                    "score": 0.7201,
+                    "bbox": [
+                        47,
+                        133,
+                        275,
+                        146
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                136,
+                                273,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        136,
+                                        273,
+                                        145
+                                    ],
+                                    "type": "text",
+                                    "content": "Batch/Lot no.: L2026352-200 Country of origin: France",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        50,
+                        136,
+                        273,
+                        145
+                    ]
+                },
+                {
+                    "score": 0.6914,
+                    "bbox": [
+                        47,
+                        149,
+                        260,
+                        162
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                151,
+                                256,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        151,
+                                        256,
+                                        160
+                                    ],
+                                    "type": "text",
+                                    "content": "Storage conditions: Store at 0-4C, keep refrigerated",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        50,
+                        151,
+                        256,
+                        160
+                    ]
+                },
+                {
+                    "score": 0.8387,
+                    "bbox": [
+                        48,
+                        175,
+                        110,
+                        189
+                    ],
+                    "index": 7,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                177,
+                                108,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        177,
+                                        108,
+                                        188
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8264,
+                    "bbox": [
+                        47,
+                        192,
+                        409,
+                        206
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                195,
+                                406,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        195,
+                                        406,
+                                        204
+                                    ],
+                                    "type": "text",
+                                    "content": "rosemary, coriander seed, thyme, olive oil, celeriac puree, rice flour, modified corn starch,",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        50,
+                        195,
+                        406,
+                        204
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        47,
+                        223,
+                        512,
+                        273
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8665,
+                            "bbox": [
+                                47,
+                                223,
+                                512,
+                                273
+                            ],
+                            "index": 9,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        223,
+                                        512,
+                                        273
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                47,
+                                                223,
+                                                512,
+                                                273
+                                            ],
+                                            "type": "image",
+                                            "image_path": "05a0c3eddadf5d8bc030f51be5c3087740347c17fe13620df0a47052388b78ca.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "score": 0.8665
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        49,
+                        304,
+                        526,
+                        326
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7536,
+                            "bbox": [
+                                49,
+                                304,
+                                526,
+                                326
+                            ],
+                            "index": 10,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        304,
+                                        526,
+                                        326
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                304,
+                                                526,
+                                                326
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c88ec915dba5c43a469d8fc86f9b0bd4ff5c49e0d12675584f5066a932674859.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "score": 0.7536
+                },
+                {
+                    "score": 0.849,
+                    "bbox": [
+                        47,
+                        349,
+                        241,
+                        362
+                    ],
+                    "index": 11,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                351,
+                                239,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        351,
+                                        239,
+                                        360
+                                    ],
+                                    "type": "text",
+                                    "content": "X = present T = may contain traces - = not present",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        50,
+                        351,
+                        239,
+                        360
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

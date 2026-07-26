@@ -1,0 +1,263 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PRODUCT SPECIFICATION SHEET"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                245,
+                67,
+                752,
+                92
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplier: Provenza Delicatessen Import S.A."
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                108,
+                552,
+                123
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Product name: Gazpacho Concentrate"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                129,
+                480,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Product code: SKU-68546"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                149,
+                406,
+                166
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Issue date: 24/02/2026"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                171,
+                405,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Batch/Lot no.: L2026097-550"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                192,
+                423,
+                209
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Country of origin: Belgium"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                215,
+                384,
+                230
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Storage conditions: Store in a cool, dry place below 25C"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                235,
+                561,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Net weight: 500 g"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                256,
+                368,
+                273
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplier address: Av. del Puerto 45, 46023 Valencia"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                278,
+                547,
+                294
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ingredients"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                323,
+                223,
+                343
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6627cc4313d683637a4606ecc7bb2cdd0b3bae178efc0277a880e21f30c94072.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>#</td><td rowspan=1 colspan=1>Ingredients</td><td rowspan=1 colspan=1>%</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>chili flakes</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>brown sugar</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>shallot</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>paprika</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>cream</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>edamame puree</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>vegetable stock powder</td><td rowspan=1 colspan=1>12%</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>dried parsley</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>tomato concentrate</td><td rowspan=1 colspan=1>14%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                139,
+                348,
+                857,
+                563
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ALLERGEN INFORMATION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                592,
+                400,
+                611
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Contains: Soybeans, Milk (including lactose)."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "May contain traces of: Cereals containing gluten."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                618,
+                460,
+                650
+            ]
+        }
+    ]
+]

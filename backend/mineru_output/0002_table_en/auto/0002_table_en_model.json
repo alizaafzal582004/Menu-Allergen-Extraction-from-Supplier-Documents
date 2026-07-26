@@ -1,0 +1,433 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9182,
+                "bbox": [
+                    407,
+                    161,
+                    1245,
+                    217
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.76,
+                "bbox": [
+                    206,
+                    253,
+                    916,
+                    290
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7252,
+                "bbox": [
+                    206,
+                    303,
+                    795,
+                    339
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7834,
+                "bbox": [
+                    206,
+                    352,
+                    674,
+                    389
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8038,
+                "bbox": [
+                    206,
+                    402,
+                    671,
+                    439
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8257,
+                "bbox": [
+                    207,
+                    452,
+                    702,
+                    489
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8404,
+                "bbox": [
+                    207,
+                    503,
+                    638,
+                    540
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8518,
+                "bbox": [
+                    207,
+                    552,
+                    928,
+                    590
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8558,
+                "bbox": [
+                    206,
+                    602,
+                    611,
+                    641
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8726,
+                "bbox": [
+                    206,
+                    652,
+                    907,
+                    689
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9056,
+                "bbox": [
+                    153,
+                    756,
+                    372,
+                    803
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9887,
+                "bbox": [
+                    232,
+                    814,
+                    1419,
+                    1319
+                ],
+                "index": 12,
+                "html": "<table><tr><td rowspan=1 colspan=1>#</td><td rowspan=1 colspan=1>Ingredients</td><td rowspan=1 colspan=1>%</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>chili flakes</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>brown sugar</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>shallot</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>paprika</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>cream</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>edamame puree</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>vegetable stock powder</td><td rowspan=1 colspan=1>12%</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>dried parsley</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>tomato concentrate</td><td rowspan=1 colspan=1>14%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9432,
+                "bbox": [
+                    151,
+                    1384,
+                    662,
+                    1428
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5188,
+                "bbox": [
+                    150,
+                    1447,
+                    762,
+                    1520
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    409,
+                    168,
+                    1240,
+                    225
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    258,
+                    309,
+                    288
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    542,
+                    258,
+                    909,
+                    284
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    309,
+                    367,
+                    334
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    546,
+                    310,
+                    785,
+                    333
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    361,
+                    358,
+                    383
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    543,
+                    359,
+                    666,
+                    384
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    411,
+                    329,
+                    433
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    541,
+                    409,
+                    663,
+                    434
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    458,
+                    360,
+                    486
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    544,
+                    461,
+                    695,
+                    483
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    507,
+                    392,
+                    537
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    542,
+                    509,
+                    631,
+                    540
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    561,
+                    415,
+                    584
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    544,
+                    559,
+                    922,
+                    584
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    606,
+                    333,
+                    639
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    542,
+                    605,
+                    607,
+                    642
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    662,
+                    396,
+                    684
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    544,
+                    661,
+                    901,
+                    682
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    156,
+                    758,
+                    369,
+                    802
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    1390,
+                    659,
+                    1440
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    157,
+                    1450,
+                    720,
+                    1481
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    156,
+                    1485,
+                    757,
+                    1515
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

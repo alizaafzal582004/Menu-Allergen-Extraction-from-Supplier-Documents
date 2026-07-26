@@ -1,0 +1,124 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PRODUCT SPECIFICATION SHEET"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                245,
+                76,
+                752,
+                98
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Product name: Ratatouille Mix"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                107,
+                324,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplier: Lyon Gastronomie Distribution SARL"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                121,
+                443,
+                136
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Country of origin: Spain Net weight: 2500 g"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                136,
+                420,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ingredients: maltodextrin, potato starch, apple cider vinegar, oregano, lemon zest, wheat starch, citric acid, leek, egg lecithin, cod stock, lupin flour."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                159,
+                897,
+                190
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Contains: Eggs, Fish, Lupin, Cereals containing gluten."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                195,
+                514,
+                211
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Free from: Tree nuts, Soybeans, Molluscs."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                210,
+                421,
+                225
+            ]
+        }
+    ]
+]

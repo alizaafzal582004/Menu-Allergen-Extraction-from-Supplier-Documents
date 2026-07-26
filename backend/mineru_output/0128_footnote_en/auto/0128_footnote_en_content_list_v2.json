@@ -1,0 +1,107 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PRODUCT SPECIFICATION SHEET — Salad Dressing Vinaigrette"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                112,
+                74,
+                884,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplier: Nortena Distribucion Alimentaria S.L. | Batch/Lot no.: L2026320-285"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                133,
+                677,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ingredients: sulphur dioxide (preservative E220), ginger powder, spelt flour, coriander seed, yeast extract, lemon zest, roasted peanuts, citric acid, paprika, brown sugar, lactose."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                156,
+                889,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Contains: Milk (including lactose), Cereals containing gluten, Sulphur dioxide and sulphites (>10mg/kg), Peanuts."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                192,
+                872,
+                222
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Storage conditions: Store frozen at -18C or below"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                274,
+                337,
+                287
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "* Manufactured in a facility that also processes Soybeans. May contain traces of Soybeans."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                260,
+                539,
+                273
+            ]
+        }
+    ]
+]

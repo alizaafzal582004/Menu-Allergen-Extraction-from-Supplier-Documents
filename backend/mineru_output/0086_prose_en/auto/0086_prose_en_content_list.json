@@ -1,0 +1,48 @@
+[
+    {
+        "type": "text",
+        "text": "Ibérica Food Supply Co.",
+        "text_level": 2,
+        "bbox": [
+            99,
+            76,
+            453,
+            102
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PRODUCT SPECIFICATION SHEET — Béchamel Sauce Base",
+        "text_level": 2,
+        "bbox": [
+            99,
+            114,
+            689,
+            131
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Poligono Malpica, Calle D 22, 50016 Zaragoza",
+        "bbox": [
+            99,
+            137,
+            457,
+            154
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This product is prepared using the following ingredients: smoked paprika, squid rings, cod stock, garlic powder, black pepper, cumin, bay leaf, apple cider vinegar, turmeric. Please note this product contains the following allergens: Molluscs, Fish. Due to shared production lines, it may also contain traces of Soybeans. Storage conditions: Store frozen at -18C or below. Batch/Lot no.: L2026134-499.",
+        "bbox": [
+            99,
+            162,
+            897,
+            222
+        ],
+        "page_idx": 0
+    }
+]

@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PRODUCT SPECIFICATION SHEET / FITXA TECNICA DE PRODUCTE"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                92,
+                67,
+                904,
+                117
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Tomato Soup Base"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                135,
+                312,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplier / Proveidor: Milano Ingredienti Premium S.p.A."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                161,
+                509,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ingredients / Ingredients: onion powder, octopus pieces, dried parsley, apple cider vinegar, vinegar, mayonnaise (contains egg), sodium metabisulphite (E223), rice flour, sugar, chili flakes."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                186,
+                852,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Conte (CA): Diòxid de sofre i sulfits (>10mg/kg), Ous, Mol·luscs."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                223,
+                578,
+                241
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Batch/Lot no.: L2026237-691 | Country of origin: Netherlands"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                244,
+                554,
+                261
+            ]
+        }
+    ]
+]

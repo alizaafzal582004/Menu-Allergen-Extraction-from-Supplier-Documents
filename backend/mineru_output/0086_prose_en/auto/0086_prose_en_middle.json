@@ -1,0 +1,432 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.692,
+                    "bbox": [
+                        59,
+                        64,
+                        270,
+                        86
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                64,
+                                268,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        64,
+                                        268,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "Ibérica Food Supply Co.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.6856,
+                    "bbox": [
+                        59,
+                        96,
+                        410,
+                        111
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                99,
+                                407,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        99,
+                                        407,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET — Béchamel Sauce Base",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.6922,
+                    "bbox": [
+                        59,
+                        116,
+                        272,
+                        130
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                118,
+                                269,
+                                129
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        118,
+                                        269,
+                                        129
+                                    ],
+                                    "type": "text",
+                                    "content": "Poligono Malpica, Calle D 22, 50016 Zaragoza",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.974,
+                    "bbox": [
+                        59,
+                        137,
+                        534,
+                        187
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                137,
+                                515,
+                                148
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        137,
+                                        515,
+                                        148
+                                    ],
+                                    "type": "text",
+                                    "content": "This product is prepared using the following ingredients: smoked paprika, squid rings, cod stock, garlic",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                150,
+                                532,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        150,
+                                        532,
+                                        160
+                                    ],
+                                    "type": "text",
+                                    "content": "powder, black pepper, cumin, bay leaf, apple cider vinegar, turmeric. Please note this product contains the",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                161,
+                                532,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        161,
+                                        532,
+                                        172
+                                    ],
+                                    "type": "text",
+                                    "content": "following allergens: Molluscs, Fish. Due to shared production lines, it may also contain traces of Soybeans.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                174,
+                                418,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        174,
+                                        418,
+                                        183
+                                    ],
+                                    "type": "text",
+                                    "content": "Storage conditions: Store frozen at -18C or below. Batch/Lot no.: L2026134-499.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.692,
+                    "bbox": [
+                        59,
+                        64,
+                        270,
+                        86
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                64,
+                                268,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        64,
+                                        268,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "Ibérica Food Supply Co.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.6856,
+                    "bbox": [
+                        59,
+                        96,
+                        410,
+                        111
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                99,
+                                407,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        99,
+                                        407,
+                                        112
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET — Béchamel Sauce Base",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.6922,
+                    "bbox": [
+                        59,
+                        116,
+                        272,
+                        130
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                118,
+                                269,
+                                129
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        118,
+                                        269,
+                                        129
+                                    ],
+                                    "type": "text",
+                                    "content": "Poligono Malpica, Calle D 22, 50016 Zaragoza",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        62,
+                        118,
+                        269,
+                        129
+                    ]
+                },
+                {
+                    "score": 0.974,
+                    "bbox": [
+                        59,
+                        137,
+                        534,
+                        187
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                137,
+                                515,
+                                148
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        137,
+                                        515,
+                                        148
+                                    ],
+                                    "type": "text",
+                                    "content": "This product is prepared using the following ingredients: smoked paprika, squid rings, cod stock, garlic",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                150,
+                                532,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        150,
+                                        532,
+                                        160
+                                    ],
+                                    "type": "text",
+                                    "content": "powder, black pepper, cumin, bay leaf, apple cider vinegar, turmeric. Please note this product contains the",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                161,
+                                532,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        161,
+                                        532,
+                                        172
+                                    ],
+                                    "type": "text",
+                                    "content": "following allergens: Molluscs, Fish. Due to shared production lines, it may also contain traces of Soybeans.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                174,
+                                418,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        174,
+                                        418,
+                                        183
+                                    ],
+                                    "type": "text",
+                                    "content": "Storage conditions: Store frozen at -18C or below. Batch/Lot no.: L2026134-499.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        60,
+                        137,
+                        532,
+                        183
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

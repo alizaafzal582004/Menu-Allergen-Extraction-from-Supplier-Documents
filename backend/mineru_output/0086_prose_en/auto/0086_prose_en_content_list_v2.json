@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ibérica Food Supply Co."
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                76,
+                453,
+                102
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PRODUCT SPECIFICATION SHEET — Béchamel Sauce Base"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                114,
+                689,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Poligono Malpica, Calle D 22, 50016 Zaragoza"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                137,
+                457,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This product is prepared using the following ingredients: smoked paprika, squid rings, cod stock, garlic powder, black pepper, cumin, bay leaf, apple cider vinegar, turmeric. Please note this product contains the following allergens: Molluscs, Fish. Due to shared production lines, it may also contain traces of Soybeans. Storage conditions: Store frozen at -18C or below. Batch/Lot no.: L2026134-499."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                162,
+                897,
+                222
+            ]
+        }
+    ]
+]

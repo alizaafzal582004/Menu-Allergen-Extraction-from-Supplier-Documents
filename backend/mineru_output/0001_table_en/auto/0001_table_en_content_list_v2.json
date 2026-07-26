@@ -1,0 +1,247 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PRODUCT SPECIFICATION SHEET"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                245,
+                67,
+                752,
+                92
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplier: Girona Gastro Ingredients S.C.P."
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                107,
+                541,
+                123
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Product name: Pizza Dough Ball"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                128,
+                442,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Product code: SKU-31903"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                149,
+                408,
+                166
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Issue date: 02/02/2026"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                171,
+                405,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Batch/Lot no.: L2026137-166"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                192,
+                425,
+                209
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Country of origin: Belgium"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                214,
+                384,
+                230
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Storage conditions: Store at 0-4C, keep refrigerated"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                235,
+                532,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Net weight: 10000 g"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                256,
+                384,
+                273
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplier address: C/ Mercabarna, Modul B-24, 08040 Barcelona"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                278,
+                623,
+                294
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ingredients"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                323,
+                223,
+                343
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1872a1048ea03ee91ef9bbaad2ec0f3d72e897cb152b2cb8b551bc205921abaa.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>#</td><td rowspan=1 colspan=1>Ingredients</td><td rowspan=1 colspan=1>%</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>coriander seed</td><td rowspan=1 colspan=1>7%</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>onion powder</td><td rowspan=1 colspan=1>8%</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>cane sugar</td><td rowspan=1 colspan=1>9%</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>black sesame garnish</td><td rowspan=1 colspan=1>9%</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>garlic powder</td><td rowspan=1 colspan=1>7%</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>crab extract</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>vinegar</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>peanut oil</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>celery stock cube</td><td rowspan=1 colspan=1>9%</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>rosemary</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>oregano</td><td rowspan=1 colspan=1>9%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                139,
+                348,
+                857,
+                606
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ALLERGEN INFORMATION"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                633,
+                400,
+                653
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Contains: Celery, Peanuts, Crustaceans, Sesame seeds."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                661,
+                527,
+                678
+            ]
+        }
+    ]
+]

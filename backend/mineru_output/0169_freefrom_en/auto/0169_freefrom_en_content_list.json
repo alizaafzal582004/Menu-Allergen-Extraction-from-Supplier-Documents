@@ -1,0 +1,80 @@
+[
+    {
+        "type": "text",
+        "text": "PRODUCT SPECIFICATION SHEET",
+        "text_level": 2,
+        "bbox": [
+            245,
+            76,
+            752,
+            98
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Product name: Ratatouille Mix",
+        "bbox": [
+            90,
+            107,
+            324,
+            122
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supplier: Lyon Gastronomie Distribution SARL",
+        "bbox": [
+            90,
+            121,
+            443,
+            136
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Country of origin: Spain Net weight: 2500 g",
+        "bbox": [
+            90,
+            136,
+            420,
+            152
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ingredients: maltodextrin, potato starch, apple cider vinegar, oregano, lemon zest, wheat starch, citric acid, leek, egg lecithin, cod stock, lupin flour.",
+        "bbox": [
+            90,
+            159,
+            897,
+            190
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contains: Eggs, Fish, Lupin, Cereals containing gluten.",
+        "bbox": [
+            90,
+            195,
+            514,
+            211
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Free from: Tree nuts, Soybeans, Molluscs.",
+        "bbox": [
+            90,
+            210,
+            421,
+            225
+        ],
+        "page_idx": 0
+    }
+]

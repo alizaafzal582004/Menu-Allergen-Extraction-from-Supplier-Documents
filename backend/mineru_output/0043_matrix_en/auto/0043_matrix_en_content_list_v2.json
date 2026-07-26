@@ -1,0 +1,191 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PRODUCT SPECIFICATION SHEET"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                80,
+                67,
+                478,
+                87
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Product name: Custard Powder"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                102,
+                304,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplier: Ibérica Food Supply Co."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                120,
+                314,
+                136
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Product code: SKU-49546"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                139,
+                267,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Batch/Lot no.: L2026352-200 Country of origin: France"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                158,
+                462,
+                173
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Storage conditions: Store at 0-4C, keep refrigerated"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                177,
+                436,
+                192
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ingredients:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                80,
+                208,
+                184,
+                224
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "rosemary, coriander seed, thyme, olive oil, celeriac puree, rice flour, modified corn starch,"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                228,
+                687,
+                244
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/05a0c3eddadf5d8bc030f51be5c3087740347c17fe13620df0a47052388b78ca.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                78,
+                265,
+                860,
+                324
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c88ec915dba5c43a469d8fc86f9b0bd4ff5c49e0d12675584f5066a932674859.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                82,
+                361,
+                884,
+                387
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X = present T = may contain traces - = not present"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                414,
+                405,
+                430
+            ]
+        }
+    ]
+]

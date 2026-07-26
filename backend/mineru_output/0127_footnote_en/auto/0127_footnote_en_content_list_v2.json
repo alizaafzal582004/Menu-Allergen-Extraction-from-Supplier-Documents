@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PRODUCT SPECIFICATION SHEET — Beef Stock Paste"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                74,
+                899,
+                99
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplier: Delta Gourmet Ingredients | Batch/Lot no.: L2026205-304"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                107,
+                598,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Ingredients: cumin, oyster sauce, canola oil, bay leaf, citric acid, rosemary, yeast extract, vinegar. Contains: Molluscs."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                130,
+                826,
+                168
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "* Manufactured in a facility that also processes Milk (including lactose), Peanuts. May contain traces of Milk (including lactose), Peanuts. Storage conditions: Store frozen at -18C or below"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                205,
+                754,
+                233
+            ]
+        }
+    ]
+]

@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PRODUCT SPECIFICATION SHEET / FICHA TECNICA DE PRODUCTO"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                115,
+                67,
+                882,
+                117
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Béchamel Sauce Base"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                135,
+                349,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Supplier / Proveedor: Valencia Wholesale Foods S.A."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                161,
+                495,
+                178
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ingredients / Ingredientes: roasted peanuts, shrimp paste, sunflower oil, canola oil, black pepper, rice flour, turmeric, fish gelatin, bay leaf, oat flakes, yeast extract."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                185,
+                904,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Contiene (ES): Crustaceos, Cacahuetes, Cereales que contienen gluten, Pescado."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                224,
+                719,
+                241
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Batch/Lot no.: L2026347-495 | Country of origin: Spain"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                244,
+                507,
+                262
+            ]
+        }
+    ]
+]

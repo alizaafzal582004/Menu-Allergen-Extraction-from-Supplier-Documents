@@ -1,0 +1,574 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.646,
+                    "bbox": [
+                        146,
+                        64,
+                        448,
+                        83
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                147,
+                                66,
+                                446,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        147,
+                                        66,
+                                        446,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.7676,
+                    "bbox": [
+                        54,
+                        90,
+                        193,
+                        103
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                92,
+                                190,
+                                102
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        92,
+                                        190,
+                                        102
+                                    ],
+                                    "type": "text",
+                                    "content": "Product name: Ratatouille Mix",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7606,
+                    "bbox": [
+                        54,
+                        102,
+                        264,
+                        115
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                104,
+                                262,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        104,
+                                        262,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier: Lyon Gastronomie Distribution SARL",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7328,
+                    "bbox": [
+                        54,
+                        115,
+                        250,
+                        128
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                115,
+                                247,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        115,
+                                        247,
+                                        127
+                                    ],
+                                    "type": "text",
+                                    "content": "Country of origin: Spain Net weight: 2500 g",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8942,
+                    "bbox": [
+                        54,
+                        134,
+                        534,
+                        160
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                137,
+                                531,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        137,
+                                        531,
+                                        145
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients: maltodextrin, potato starch, apple cider vinegar, oregano, lemon zest, wheat starch, citric acid,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                148,
+                                230,
+                                158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        148,
+                                        230,
+                                        158
+                                    ],
+                                    "type": "text",
+                                    "content": "leek, egg lecithin, cod stock, lupin flour.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8093,
+                    "bbox": [
+                        54,
+                        164,
+                        306,
+                        178
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                166,
+                                303,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        166,
+                                        303,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "Contains: Eggs, Fish, Lupin, Cereals containing gluten.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7463,
+                    "bbox": [
+                        54,
+                        177,
+                        251,
+                        190
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                178,
+                                248,
+                                189
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        178,
+                                        248,
+                                        189
+                                    ],
+                                    "type": "text",
+                                    "content": "Free from: Tree nuts, Soybeans, Molluscs.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.646,
+                    "bbox": [
+                        146,
+                        64,
+                        448,
+                        83
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                147,
+                                66,
+                                446,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        147,
+                                        66,
+                                        446,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.7676,
+                    "bbox": [
+                        54,
+                        90,
+                        193,
+                        103
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                92,
+                                190,
+                                102
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        92,
+                                        190,
+                                        102
+                                    ],
+                                    "type": "text",
+                                    "content": "Product name: Ratatouille Mix",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        92,
+                        190,
+                        102
+                    ]
+                },
+                {
+                    "score": 0.7606,
+                    "bbox": [
+                        54,
+                        102,
+                        264,
+                        115
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                104,
+                                262,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        104,
+                                        262,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier: Lyon Gastronomie Distribution SARL",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        104,
+                        262,
+                        114
+                    ]
+                },
+                {
+                    "score": 0.7328,
+                    "bbox": [
+                        54,
+                        115,
+                        250,
+                        128
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                115,
+                                247,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        115,
+                                        247,
+                                        127
+                                    ],
+                                    "type": "text",
+                                    "content": "Country of origin: Spain Net weight: 2500 g",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        115,
+                        247,
+                        127
+                    ]
+                },
+                {
+                    "score": 0.8942,
+                    "bbox": [
+                        54,
+                        134,
+                        534,
+                        160
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                137,
+                                531,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        137,
+                                        531,
+                                        145
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients: maltodextrin, potato starch, apple cider vinegar, oregano, lemon zest, wheat starch, citric acid,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                148,
+                                230,
+                                158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        148,
+                                        230,
+                                        158
+                                    ],
+                                    "type": "text",
+                                    "content": "leek, egg lecithin, cod stock, lupin flour.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        55,
+                        137,
+                        531,
+                        158
+                    ]
+                },
+                {
+                    "score": 0.8093,
+                    "bbox": [
+                        54,
+                        164,
+                        306,
+                        178
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                166,
+                                303,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        166,
+                                        303,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "Contains: Eggs, Fish, Lupin, Cereals containing gluten.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        166,
+                        303,
+                        176
+                    ]
+                },
+                {
+                    "score": 0.7463,
+                    "bbox": [
+                        54,
+                        177,
+                        251,
+                        190
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                178,
+                                248,
+                                189
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        178,
+                                        248,
+                                        189
+                                    ],
+                                    "type": "text",
+                                    "content": "Free from: Tree nuts, Soybeans, Molluscs.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        178,
+                        248,
+                        189
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

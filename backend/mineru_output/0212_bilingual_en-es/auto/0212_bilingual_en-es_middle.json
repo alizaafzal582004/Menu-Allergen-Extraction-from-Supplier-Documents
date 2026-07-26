@@ -1,0 +1,538 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.965,
+                    "bbox": [
+                        69,
+                        57,
+                        525,
+                        99
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                60,
+                                524,
+                                81
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        60,
+                                        524,
+                                        81
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET / FICHA TECNICA",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                230,
+                                83,
+                                364,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        230,
+                                        83,
+                                        364,
+                                        103
+                                    ],
+                                    "type": "text",
+                                    "content": "DE PRODUCTO",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 1
+                },
+                {
+                    "score": 0.9013,
+                    "bbox": [
+                        54,
+                        114,
+                        208,
+                        130
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                115,
+                                205,
+                                129
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        115,
+                                        205,
+                                        129
+                                    ],
+                                    "type": "text",
+                                    "content": "Béchamel Sauce Base",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8875,
+                    "bbox": [
+                        54,
+                        136,
+                        295,
+                        150
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                138,
+                                293,
+                                148
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        138,
+                                        293,
+                                        148
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier / Proveedor: Valencia Wholesale Foods S.A.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9387,
+                    "bbox": [
+                        53,
+                        156,
+                        538,
+                        183
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                158,
+                                536,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        158,
+                                        536,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients / Ingredientes: roasted peanuts, shrimp paste, sunflower oil, canola oil, black pepper, rice flour,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                171,
+                                299,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        171,
+                                        299,
+                                        180
+                                    ],
+                                    "type": "text",
+                                    "content": "turmeric, fish gelatin, bay leaf, oat flakes, yeast extract.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9132,
+                    "bbox": [
+                        54,
+                        189,
+                        428,
+                        203
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                190,
+                                426,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        190,
+                                        426,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "Contiene (ES): Crustaceos, Cacahuetes, Cereales que contienen gluten, Pescado.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.899,
+                    "bbox": [
+                        54,
+                        206,
+                        302,
+                        221
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                208,
+                                298,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        208,
+                                        298,
+                                        219
+                                    ],
+                                    "type": "text",
+                                    "content": "Batch/Lot no.: L2026347-495 | Country of origin: Spain",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.965,
+                    "bbox": [
+                        69,
+                        57,
+                        525,
+                        99
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                60,
+                                524,
+                                81
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        60,
+                                        524,
+                                        81
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET / FICHA TECNICA",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                230,
+                                83,
+                                364,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        230,
+                                        83,
+                                        364,
+                                        103
+                                    ],
+                                    "type": "text",
+                                    "content": "DE PRODUCTO",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 1
+                },
+                {
+                    "score": 0.9013,
+                    "bbox": [
+                        54,
+                        114,
+                        208,
+                        130
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                115,
+                                205,
+                                129
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        115,
+                                        205,
+                                        129
+                                    ],
+                                    "type": "text",
+                                    "content": "Béchamel Sauce Base",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8875,
+                    "bbox": [
+                        54,
+                        136,
+                        295,
+                        150
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                138,
+                                293,
+                                148
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        138,
+                                        293,
+                                        148
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier / Proveedor: Valencia Wholesale Foods S.A.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        57,
+                        138,
+                        293,
+                        148
+                    ]
+                },
+                {
+                    "score": 0.9387,
+                    "bbox": [
+                        53,
+                        156,
+                        538,
+                        183
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                158,
+                                536,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        158,
+                                        536,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients / Ingredientes: roasted peanuts, shrimp paste, sunflower oil, canola oil, black pepper, rice flour,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                171,
+                                299,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        171,
+                                        299,
+                                        180
+                                    ],
+                                    "type": "text",
+                                    "content": "turmeric, fish gelatin, bay leaf, oat flakes, yeast extract.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        158,
+                        536,
+                        180
+                    ]
+                },
+                {
+                    "score": 0.9132,
+                    "bbox": [
+                        54,
+                        189,
+                        428,
+                        203
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                190,
+                                426,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        190,
+                                        426,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "Contiene (ES): Crustaceos, Cacahuetes, Cereales que contienen gluten, Pescado.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        190,
+                        426,
+                        201
+                    ]
+                },
+                {
+                    "score": 0.899,
+                    "bbox": [
+                        54,
+                        206,
+                        302,
+                        221
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                208,
+                                298,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        208,
+                                        298,
+                                        219
+                                    ],
+                                    "type": "text",
+                                    "content": "Batch/Lot no.: L2026347-495 | Country of origin: Spain",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        208,
+                        298,
+                        219
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

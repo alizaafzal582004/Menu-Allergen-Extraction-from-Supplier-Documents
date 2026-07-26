@@ -1,0 +1,80 @@
+[
+    {
+        "type": "text",
+        "text": "PRODUCT SPECIFICATION SHEET",
+        "text_level": 1,
+        "bbox": [
+            245,
+            76,
+            752,
+            98
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Product name: Chicken Broth Concentrate",
+        "bbox": [
+            90,
+            107,
+            416,
+            122
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supplier: Aragon Central Kitchen Supply S.L.",
+        "bbox": [
+            90,
+            121,
+            435,
+            136
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Country of origin: Netherlands Net weight: 10000 g",
+        "bbox": [
+            90,
+            136,
+            477,
+            152
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ingredients: sunflower oil, black pepper, prawn stock, smoked paprika, corn starch, vinegar, dried parsley, maltodextrin.",
+        "bbox": [
+            89,
+            159,
+            890,
+            190
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contains: Crustaceans.",
+        "bbox": [
+            90,
+            195,
+            280,
+            210
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Free from: Eggs, Milk (including lactose), Soybeans.",
+        "bbox": [
+            89,
+            210,
+            492,
+            227
+        ],
+        "page_idx": 0
+    }
+]

@@ -1,0 +1,732 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.8654,
+                    "bbox": [
+                        48,
+                        56,
+                        285,
+                        74
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                59,
+                                282,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        59,
+                                        282,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.4686,
+                    "bbox": [
+                        47,
+                        86,
+                        283,
+                        163
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                88,
+                                200,
+                                97
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        88,
+                                        200,
+                                        97
+                                    ],
+                                    "type": "text",
+                                    "content": "Product name: Romesco Sauce Base",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                105,
+                                240,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        105,
+                                        240,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier: Proveedora Catalana de Alimentacion",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                120,
+                                155,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        120,
+                                        155,
+                                        128
+                                    ],
+                                    "type": "text",
+                                    "content": "Product code: SKU-86508",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                135,
+                                280,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        135,
+                                        280,
+                                        145
+                                    ],
+                                    "type": "text",
+                                    "content": "Batch/Lot no.: L2026322-572 Country of origin: Morocco",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                151,
+                                274,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        151,
+                                        274,
+                                        161
+                                    ],
+                                    "type": "text",
+                                    "content": "Storage conditions: Store in a cool, dry place below 25C",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7486,
+                    "bbox": [
+                        48,
+                        175,
+                        110,
+                        189
+                    ],
+                    "index": 3,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                177,
+                                108,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        177,
+                                        108,
+                                        188
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.843,
+                    "bbox": [
+                        47,
+                        192,
+                        417,
+                        207
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                195,
+                                414,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        195,
+                                        414,
+                                        204
+                                    ],
+                                    "type": "text",
+                                    "content": "egg lecithin, turmeric, oregano, rosemary, canola oil, lupin seeds, thyme, maltodextrin, leek.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        47,
+                        209,
+                        512,
+                        258
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8887,
+                            "bbox": [
+                                47,
+                                209,
+                                512,
+                                258
+                            ],
+                            "index": 5,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        209,
+                                        512,
+                                        258
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                47,
+                                                209,
+                                                512,
+                                                258
+                                            ],
+                                            "type": "image",
+                                            "image_path": "b266cb370a75c8181c12edda96335372804a8b1e4e49951f59b6875c84c241c6.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "score": 0.8887
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        49,
+                        290,
+                        526,
+                        312
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7685,
+                            "bbox": [
+                                49,
+                                290,
+                                526,
+                                312
+                            ],
+                            "index": 6,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        290,
+                                        526,
+                                        312
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                290,
+                                                526,
+                                                312
+                                            ],
+                                            "type": "image",
+                                            "image_path": "40e52bf0be53a92977ff5402bdab5fe636049338b2c5dc663a24644653af52fa.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "score": 0.7685
+                },
+                {
+                    "score": 0.7635,
+                    "bbox": [
+                        48,
+                        335,
+                        241,
+                        347
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                337,
+                                239,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        337,
+                                        239,
+                                        346
+                                    ],
+                                    "type": "text",
+                                    "content": "X = present T = may contain traces - = not present",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.8654,
+                    "bbox": [
+                        48,
+                        56,
+                        285,
+                        74
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                59,
+                                282,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        59,
+                                        282,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.4686,
+                    "bbox": [
+                        47,
+                        86,
+                        283,
+                        163
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                88,
+                                200,
+                                97
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        88,
+                                        200,
+                                        97
+                                    ],
+                                    "type": "text",
+                                    "content": "Product name: Romesco Sauce Base",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                105,
+                                240,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        105,
+                                        240,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier: Proveedora Catalana de Alimentacion",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                120,
+                                155,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        120,
+                                        155,
+                                        128
+                                    ],
+                                    "type": "text",
+                                    "content": "Product code: SKU-86508",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                135,
+                                280,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        135,
+                                        280,
+                                        145
+                                    ],
+                                    "type": "text",
+                                    "content": "Batch/Lot no.: L2026322-572 Country of origin: Morocco",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                151,
+                                274,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        151,
+                                        274,
+                                        161
+                                    ],
+                                    "type": "text",
+                                    "content": "Storage conditions: Store in a cool, dry place below 25C",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        50,
+                        88,
+                        280,
+                        161
+                    ]
+                },
+                {
+                    "score": 0.7486,
+                    "bbox": [
+                        48,
+                        175,
+                        110,
+                        189
+                    ],
+                    "index": 3,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                177,
+                                108,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        177,
+                                        108,
+                                        188
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.843,
+                    "bbox": [
+                        47,
+                        192,
+                        417,
+                        207
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                195,
+                                414,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        195,
+                                        414,
+                                        204
+                                    ],
+                                    "type": "text",
+                                    "content": "egg lecithin, turmeric, oregano, rosemary, canola oil, lupin seeds, thyme, maltodextrin, leek.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        50,
+                        195,
+                        414,
+                        204
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        47,
+                        209,
+                        512,
+                        258
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.8887,
+                            "bbox": [
+                                47,
+                                209,
+                                512,
+                                258
+                            ],
+                            "index": 5,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        209,
+                                        512,
+                                        258
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                47,
+                                                209,
+                                                512,
+                                                258
+                                            ],
+                                            "type": "image",
+                                            "image_path": "b266cb370a75c8181c12edda96335372804a8b1e4e49951f59b6875c84c241c6.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "score": 0.8887
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        49,
+                        290,
+                        526,
+                        312
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7685,
+                            "bbox": [
+                                49,
+                                290,
+                                526,
+                                312
+                            ],
+                            "index": 6,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        290,
+                                        526,
+                                        312
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                290,
+                                                526,
+                                                312
+                                            ],
+                                            "type": "image",
+                                            "image_path": "40e52bf0be53a92977ff5402bdab5fe636049338b2c5dc663a24644653af52fa.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "score": 0.7685
+                },
+                {
+                    "score": 0.7635,
+                    "bbox": [
+                        48,
+                        335,
+                        241,
+                        347
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                337,
+                                239,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        337,
+                                        239,
+                                        346
+                                    ],
+                                    "type": "text",
+                                    "content": "X = present T = may contain traces - = not present",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        50,
+                        337,
+                        239,
+                        346
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

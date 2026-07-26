@@ -1,0 +1,195 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.9465,
+                    "bbox": [
+                        58,
+                        63,
+                        535,
+                        84
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                65,
+                                534,
+                                88
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        65,
+                                        534,
+                                        88
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET — Beef Stock Paste",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8174,
+                    "bbox": [
+                        54,
+                        90,
+                        356,
+                        104
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                92,
+                                353,
+                                102
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        92,
+                                        353,
+                                        102
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier: Delta Gourmet Ingredients | Batch/Lot no.: L2026205-304",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9281,
+                    "bbox": [
+                        54,
+                        110,
+                        492,
+                        142
+                    ],
+                    "index": 3,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                111,
+                                491,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        111,
+                                        491,
+                                        123
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients: cumin, oyster sauce, canola oil, bay leaf, citric acid, rosemary, yeast extract, vinegar.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                131,
+                                146,
+                                140
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        131,
+                                        146,
+                                        140
+                                    ],
+                                    "type": "text",
+                                    "content": "Contains: Molluscs.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.5982,
+                    "bbox": [
+                        54,
+                        173,
+                        449,
+                        196
+                    ],
+                    "index": 4,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                174,
+                                447,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        174,
+                                        447,
+                                        183
+                                    ],
+                                    "type": "text",
+                                    "content": "* Manufactured in a facility that also processes Milk (including lactose), Peanuts. May contain traces of Milk (including lactose), Peanuts.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                188,
+                                199,
+                                194
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        188,
+                                        199,
+                                        194
+                                    ],
+                                    "type": "text",
+                                    "content": "Storage conditions: Store frozen at -18C or below",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": []
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

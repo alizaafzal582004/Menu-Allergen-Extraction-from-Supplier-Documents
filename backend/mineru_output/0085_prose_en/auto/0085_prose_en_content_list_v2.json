@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Milano Ingredienti Premium S.p.A."
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                100,
+                76,
+                598,
+                102
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PRODUCT SPECIFICATION SHEET — Chocolate Mousse Powder"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                114,
+                731,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Zona Franca, Sector C, 08040 Barcelona"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                137,
+                413,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This product is prepared using the following ingredients: lupin protein isolate, vinegar, almond flour, thyme, rice flour, bay leaf, mustard powder, turmeric, casein, apple cider vinegar, ginger powder. Please note this product contains the following allergens: Lupin, Milk (including lactose), Mustard, Tree nuts. Storage conditions: Store frozen at -18C or below. Batch/Lot no.: L2026150-854."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                161,
+                895,
+                222
+            ]
+        }
+    ]
+]

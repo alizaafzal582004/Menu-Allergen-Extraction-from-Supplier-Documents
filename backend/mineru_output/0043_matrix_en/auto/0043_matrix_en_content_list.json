@@ -1,0 +1,129 @@
+[
+    {
+        "type": "text",
+        "text": "PRODUCT SPECIFICATION SHEET",
+        "text_level": 2,
+        "bbox": [
+            80,
+            67,
+            478,
+            87
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Product name: Custard Powder",
+        "bbox": [
+            78,
+            102,
+            304,
+            118
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supplier: Ibérica Food Supply Co.",
+        "bbox": [
+            80,
+            120,
+            314,
+            136
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Product code: SKU-49546",
+        "bbox": [
+            80,
+            139,
+            267,
+            154
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Batch/Lot no.: L2026352-200 Country of origin: France",
+        "bbox": [
+            78,
+            158,
+            462,
+            173
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Storage conditions: Store at 0-4C, keep refrigerated",
+        "bbox": [
+            78,
+            177,
+            436,
+            192
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ingredients:",
+        "text_level": 2,
+        "bbox": [
+            80,
+            208,
+            184,
+            224
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "rosemary, coriander seed, thyme, olive oil, celeriac puree, rice flour, modified corn starch,",
+        "bbox": [
+            78,
+            228,
+            687,
+            244
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/05a0c3eddadf5d8bc030f51be5c3087740347c17fe13620df0a47052388b78ca.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            78,
+            265,
+            860,
+            324
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c88ec915dba5c43a469d8fc86f9b0bd4ff5c49e0d12675584f5066a932674859.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            82,
+            361,
+            884,
+            387
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X = present T = may contain traces - = not present",
+        "bbox": [
+            78,
+            414,
+            405,
+            430
+        ],
+        "page_idx": 0
+    }
+]
