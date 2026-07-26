@@ -1,0 +1,34 @@
+# ---------- Python (backend + ml) ----------
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.env
+
+# ---------- Node / React (frontend) ----------
+node_modules/
+.next/
+dist/
+build/
+
+# ---------- ML artifacts (too large for Git) ----------
+ml/models/
+ml/data/*.csv
+ml/data/*.parquet
+!ml/data/.gitkeep
+
+# ---------- OS / Editor junk ----------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---------- Secrets ----------
+.env
+.env.local
+*.pem
+*.key
+
+# ---------- Docker ----------
+*.log
