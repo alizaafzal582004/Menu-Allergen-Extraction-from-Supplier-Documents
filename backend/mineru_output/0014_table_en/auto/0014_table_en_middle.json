@@ -1,0 +1,1305 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.9269,
+                    "bbox": [
+                        146,
+                        57,
+                        448,
+                        78
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                147,
+                                61,
+                                446,
+                                80
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        147,
+                                        61,
+                                        446,
+                                        80
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 1
+                },
+                {
+                    "score": 0.7812,
+                    "bbox": [
+                        74,
+                        91,
+                        288,
+                        104
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                92,
+                                286,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        92,
+                                        110,
+                                        104
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        92,
+                                        286,
+                                        103
+                                    ],
+                                    "type": "text",
+                                    "content": "Ibérica Food Supply Co.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.7718,
+                    "bbox": [
+                        73,
+                        109,
+                        280,
+                        122
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                111,
+                                277,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        111,
+                                        132,
+                                        119
+                                    ],
+                                    "type": "text",
+                                    "content": "Product name:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        196,
+                                        112,
+                                        277,
+                                        120
+                                    ],
+                                    "type": "text",
+                                    "content": "Empanada Filling Mix",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8308,
+                    "bbox": [
+                        74,
+                        126,
+                        243,
+                        140
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                129,
+                                240,
+                                138
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        129,
+                                        129,
+                                        137
+                                    ],
+                                    "type": "text",
+                                    "content": "Product code:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        129,
+                                        240,
+                                        138
+                                    ],
+                                    "type": "text",
+                                    "content": "SKU-44045",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8497,
+                    "bbox": [
+                        74,
+                        144,
+                        241,
+                        158
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                147,
+                                238,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        147,
+                                        118,
+                                        155
+                                    ],
+                                    "type": "text",
+                                    "content": "Issue date:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        147,
+                                        238,
+                                        156
+                                    ],
+                                    "type": "text",
+                                    "content": "05/06/2026",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8599,
+                    "bbox": [
+                        74,
+                        162,
+                        253,
+                        176
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                165,
+                                250,
+                                173
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        165,
+                                        129,
+                                        173
+                                    ],
+                                    "type": "text",
+                                    "content": "Batch/Lot no.:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        165,
+                                        250,
+                                        173
+                                    ],
+                                    "type": "text",
+                                    "content": "L2026267-908",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.878,
+                    "bbox": [
+                        74,
+                        180,
+                        231,
+                        194
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                182,
+                                228,
+                                193
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        182,
+                                        141,
+                                        193
+                                    ],
+                                    "type": "text",
+                                    "content": "Country of origin:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        194,
+                                        182,
+                                        228,
+                                        193
+                                    ],
+                                    "type": "text",
+                                    "content": "Morocco",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8838,
+                    "bbox": [
+                        74,
+                        198,
+                        334,
+                        212
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                201,
+                                331,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        201,
+                                        149,
+                                        210
+                                    ],
+                                    "type": "text",
+                                    "content": "Storage conditions:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        201,
+                                        331,
+                                        210
+                                    ],
+                                    "type": "text",
+                                    "content": "Store in a cool, dry place below 25C",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8885,
+                    "bbox": [
+                        74,
+                        216,
+                        225,
+                        230
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                217,
+                                223,
+                                230
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        218,
+                                        119,
+                                        230
+                                    ],
+                                    "type": "text",
+                                    "content": "Net weight:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        194,
+                                        217,
+                                        223,
+                                        230
+                                    ],
+                                    "type": "text",
+                                    "content": "5000 g",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9031,
+                    "bbox": [
+                        73,
+                        234,
+                        495,
+                        248
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                235,
+                                493,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        236,
+                                        143,
+                                        247
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier address:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        235,
+                                        493,
+                                        247
+                                    ],
+                                    "type": "text",
+                                    "content": "Pol. Ind. Can Bernades, Nau 12, 08130 Santa Perpetua de Mogoda, Barcelona",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9152,
+                    "bbox": [
+                        54,
+                        272,
+                        133,
+                        289
+                    ],
+                    "index": 11,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                272,
+                                132,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        272,
+                                        132,
+                                        288
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        83,
+                        293,
+                        510,
+                        510
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9891,
+                            "bbox": [
+                                83,
+                                293,
+                                510,
+                                510
+                            ],
+                            "index": 12,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        293,
+                                        510,
+                                        510
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                83,
+                                                293,
+                                                510,
+                                                510
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=1 colspan=1>#</td><td rowspan=1 colspan=1>Ingredients</td><td rowspan=1 colspan=1>%</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>lupin seeds</td><td rowspan=1 colspan=1>9%</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>cod stock</td><td rowspan=1 colspan=1>7%</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>rice flour</td><td rowspan=1 colspan=1>7%</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>maltodextrin</td><td rowspan=1 colspan=1>8%</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>celeriac puree</td><td rowspan=1 colspan=1>7%</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>xanthan gum</td><td rowspan=1 colspan=1>9%</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>apple cider vinegar</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>dried parsley</td><td rowspan=1 colspan=1>9%</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>carrot</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>crayfish tail meat</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>chili flakes</td><td rowspan=1 colspan=1>10%</td></tr></table>",
+                                            "image_path": "84c1a4e6ec75164e44478340f13bea4338b11b70c61b50202fb578dcbed3f4b5.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "score": 0.9891
+                },
+                {
+                    "score": 0.9399,
+                    "bbox": [
+                        54,
+                        533,
+                        238,
+                        550
+                    ],
+                    "index": 13,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                536,
+                                236,
+                                551
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        536,
+                                        236,
+                                        551
+                                    ],
+                                    "type": "text",
+                                    "content": "ALLERGEN INFORMATION",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.7232,
+                    "bbox": [
+                        53,
+                        557,
+                        272,
+                        583
+                    ],
+                    "index": 14,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                558,
+                                253,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        558,
+                                        253,
+                                        569
+                                    ],
+                                    "type": "text",
+                                    "content": "Contains: Lupin, Fish, Crustaceans, Celery.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                571,
+                                270,
+                                580
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        571,
+                                        270,
+                                        580
+                                    ],
+                                    "type": "text",
+                                    "content": "May contain traces of: Molluscs, Sesame seeds.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.9269,
+                    "bbox": [
+                        146,
+                        57,
+                        448,
+                        78
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                147,
+                                61,
+                                446,
+                                80
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        147,
+                                        61,
+                                        446,
+                                        80
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCT SPECIFICATION SHEET",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 1
+                },
+                {
+                    "score": 0.7812,
+                    "bbox": [
+                        74,
+                        91,
+                        288,
+                        104
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                92,
+                                286,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        92,
+                                        110,
+                                        104
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        92,
+                                        286,
+                                        103
+                                    ],
+                                    "type": "text",
+                                    "content": "Ibérica Food Supply Co.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        75,
+                        92,
+                        286,
+                        104
+                    ]
+                },
+                {
+                    "score": 0.7718,
+                    "bbox": [
+                        73,
+                        109,
+                        280,
+                        122
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                111,
+                                277,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        111,
+                                        132,
+                                        119
+                                    ],
+                                    "type": "text",
+                                    "content": "Product name:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        196,
+                                        112,
+                                        277,
+                                        120
+                                    ],
+                                    "type": "text",
+                                    "content": "Empanada Filling Mix",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        76,
+                        111,
+                        277,
+                        120
+                    ]
+                },
+                {
+                    "score": 0.8308,
+                    "bbox": [
+                        74,
+                        126,
+                        243,
+                        140
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                129,
+                                240,
+                                138
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        129,
+                                        129,
+                                        137
+                                    ],
+                                    "type": "text",
+                                    "content": "Product code:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        129,
+                                        240,
+                                        138
+                                    ],
+                                    "type": "text",
+                                    "content": "SKU-44045",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        76,
+                        129,
+                        240,
+                        138
+                    ]
+                },
+                {
+                    "score": 0.8497,
+                    "bbox": [
+                        74,
+                        144,
+                        241,
+                        158
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                147,
+                                238,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        147,
+                                        118,
+                                        155
+                                    ],
+                                    "type": "text",
+                                    "content": "Issue date:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        147,
+                                        238,
+                                        156
+                                    ],
+                                    "type": "text",
+                                    "content": "05/06/2026",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        76,
+                        147,
+                        238,
+                        156
+                    ]
+                },
+                {
+                    "score": 0.8599,
+                    "bbox": [
+                        74,
+                        162,
+                        253,
+                        176
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                165,
+                                250,
+                                173
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        165,
+                                        129,
+                                        173
+                                    ],
+                                    "type": "text",
+                                    "content": "Batch/Lot no.:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        165,
+                                        250,
+                                        173
+                                    ],
+                                    "type": "text",
+                                    "content": "L2026267-908",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        76,
+                        165,
+                        250,
+                        173
+                    ]
+                },
+                {
+                    "score": 0.878,
+                    "bbox": [
+                        74,
+                        180,
+                        231,
+                        194
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                182,
+                                228,
+                                193
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        182,
+                                        141,
+                                        193
+                                    ],
+                                    "type": "text",
+                                    "content": "Country of origin:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        194,
+                                        182,
+                                        228,
+                                        193
+                                    ],
+                                    "type": "text",
+                                    "content": "Morocco",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        76,
+                        182,
+                        228,
+                        193
+                    ]
+                },
+                {
+                    "score": 0.8838,
+                    "bbox": [
+                        74,
+                        198,
+                        334,
+                        212
+                    ],
+                    "index": 8,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                201,
+                                331,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        201,
+                                        149,
+                                        210
+                                    ],
+                                    "type": "text",
+                                    "content": "Storage conditions:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        201,
+                                        331,
+                                        210
+                                    ],
+                                    "type": "text",
+                                    "content": "Store in a cool, dry place below 25C",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        76,
+                        201,
+                        331,
+                        210
+                    ]
+                },
+                {
+                    "score": 0.8885,
+                    "bbox": [
+                        74,
+                        216,
+                        225,
+                        230
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                217,
+                                223,
+                                230
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        218,
+                                        119,
+                                        230
+                                    ],
+                                    "type": "text",
+                                    "content": "Net weight:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        194,
+                                        217,
+                                        223,
+                                        230
+                                    ],
+                                    "type": "text",
+                                    "content": "5000 g",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        75,
+                        217,
+                        223,
+                        230
+                    ]
+                },
+                {
+                    "score": 0.9031,
+                    "bbox": [
+                        73,
+                        234,
+                        495,
+                        248
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                235,
+                                493,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        236,
+                                        143,
+                                        247
+                                    ],
+                                    "type": "text",
+                                    "content": "Supplier address:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        235,
+                                        493,
+                                        247
+                                    ],
+                                    "type": "text",
+                                    "content": "Pol. Ind. Can Bernades, Nau 12, 08130 Santa Perpetua de Mogoda, Barcelona",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        76,
+                        235,
+                        493,
+                        247
+                    ]
+                },
+                {
+                    "score": 0.9152,
+                    "bbox": [
+                        54,
+                        272,
+                        133,
+                        289
+                    ],
+                    "index": 11,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                272,
+                                132,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        272,
+                                        132,
+                                        288
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        83,
+                        293,
+                        510,
+                        510
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9891,
+                            "bbox": [
+                                83,
+                                293,
+                                510,
+                                510
+                            ],
+                            "index": 12,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        293,
+                                        510,
+                                        510
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                83,
+                                                293,
+                                                510,
+                                                510
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=1 colspan=1>#</td><td rowspan=1 colspan=1>Ingredients</td><td rowspan=1 colspan=1>%</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>lupin seeds</td><td rowspan=1 colspan=1>9%</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>cod stock</td><td rowspan=1 colspan=1>7%</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>rice flour</td><td rowspan=1 colspan=1>7%</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>maltodextrin</td><td rowspan=1 colspan=1>8%</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>celeriac puree</td><td rowspan=1 colspan=1>7%</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>xanthan gum</td><td rowspan=1 colspan=1>9%</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>apple cider vinegar</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>dried parsley</td><td rowspan=1 colspan=1>9%</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>carrot</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>crayfish tail meat</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>chili flakes</td><td rowspan=1 colspan=1>10%</td></tr></table>",
+                                            "image_path": "84c1a4e6ec75164e44478340f13bea4338b11b70c61b50202fb578dcbed3f4b5.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "score": 0.9891
+                },
+                {
+                    "score": 0.9399,
+                    "bbox": [
+                        54,
+                        533,
+                        238,
+                        550
+                    ],
+                    "index": 13,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                536,
+                                236,
+                                551
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        536,
+                                        236,
+                                        551
+                                    ],
+                                    "type": "text",
+                                    "content": "ALLERGEN INFORMATION",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.7232,
+                    "bbox": [
+                        53,
+                        557,
+                        272,
+                        583
+                    ],
+                    "index": 14,
+                    "type": "list",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                558,
+                                253,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        558,
+                                        253,
+                                        569
+                                    ],
+                                    "type": "text",
+                                    "content": "Contains: Lupin, Fish, Crustaceans, Celery.",
+                                    "score": 1.0
+                                }
+                            ],
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                571,
+                                270,
+                                580
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        571,
+                                        270,
+                                        580
+                                    ],
+                                    "type": "text",
+                                    "content": "May contain traces of: Molluscs, Sesame seeds.",
+                                    "score": 1.0
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        558,
+                        270,
+                        580
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}
