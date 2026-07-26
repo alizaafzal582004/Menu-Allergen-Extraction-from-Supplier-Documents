@@ -1,0 +1,538 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.9594,
+                    "bbox": [
+                        65,
+                        57,
+                        529,
+                        99
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                61,
+                                528,
+                                81
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        61,
+                                        528,
+                                        81
+                                    ],
+                                    "type": "text",
+                                    "content": "FICHA TECNICA DE PRODUCTO / FITXA TECNICA DE",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                245,
+                                83,
+                                348,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        83,
+                                        348,
+                                        103
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCTE",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 1
+                },
+                {
+                    "score": 0.8966,
+                    "bbox": [
+                        54,
+                        114,
+                        134,
+                        130
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                115,
+                                132,
+                                129
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        115,
+                                        132,
+                                        129
+                                    ],
+                                    "type": "text",
+                                    "content": "Salsa Alioli",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8893,
+                    "bbox": [
+                        54,
+                        136,
+                        296,
+                        150
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                137,
+                                294,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        137,
+                                        294,
+                                        149
+                                    ],
+                                    "type": "text",
+                                    "content": "Proveedor / Proveidor: Porto Foodservice Import Lda.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9403,
+                    "bbox": [
+                        53,
+                        157,
+                        520,
+                        183
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                158,
+                                519,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        158,
+                                        519,
+                                        169
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredientes / Ingredients: yema de huevo pasteurizada, almidon de maiz modificado, azucar de cana,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                170,
+                                506,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        170,
+                                        506,
+                                        180
+                                    ],
+                                    "type": "text",
+                                    "content": "caldo vegetal en polvo, goma xantana, sal, mantequilla de cacahuete, romero, cubos de tofu, chalota.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.867,
+                    "bbox": [
+                        54,
+                        188,
+                        211,
+                        202
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                190,
+                                209,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        190,
+                                        209,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "Conte (CA): Cacauets, Ous, Soia.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.887,
+                    "bbox": [
+                        54,
+                        206,
+                        301,
+                        221
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                208,
+                                298,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        208,
+                                        298,
+                                        219
+                                    ],
+                                    "type": "text",
+                                    "content": "Num. de lote: L2026309-662 | Pais de origen: Portugal",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.9594,
+                    "bbox": [
+                        65,
+                        57,
+                        529,
+                        99
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                61,
+                                528,
+                                81
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        61,
+                                        528,
+                                        81
+                                    ],
+                                    "type": "text",
+                                    "content": "FICHA TECNICA DE PRODUCTO / FITXA TECNICA DE",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                245,
+                                83,
+                                348,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        83,
+                                        348,
+                                        103
+                                    ],
+                                    "type": "text",
+                                    "content": "PRODUCTE",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 1
+                },
+                {
+                    "score": 0.8966,
+                    "bbox": [
+                        54,
+                        114,
+                        134,
+                        130
+                    ],
+                    "index": 2,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                115,
+                                132,
+                                129
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        115,
+                                        132,
+                                        129
+                                    ],
+                                    "type": "text",
+                                    "content": "Salsa Alioli",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8893,
+                    "bbox": [
+                        54,
+                        136,
+                        296,
+                        150
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                137,
+                                294,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        137,
+                                        294,
+                                        149
+                                    ],
+                                    "type": "text",
+                                    "content": "Proveedor / Proveidor: Porto Foodservice Import Lda.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        55,
+                        137,
+                        294,
+                        149
+                    ]
+                },
+                {
+                    "score": 0.9403,
+                    "bbox": [
+                        53,
+                        157,
+                        520,
+                        183
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                158,
+                                519,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        158,
+                                        519,
+                                        169
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredientes / Ingredients: yema de huevo pasteurizada, almidon de maiz modificado, azucar de cana,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                170,
+                                506,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        170,
+                                        506,
+                                        180
+                                    ],
+                                    "type": "text",
+                                    "content": "caldo vegetal en polvo, goma xantana, sal, mantequilla de cacahuete, romero, cubos de tofu, chalota.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        55,
+                        158,
+                        519,
+                        180
+                    ]
+                },
+                {
+                    "score": 0.867,
+                    "bbox": [
+                        54,
+                        188,
+                        211,
+                        202
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                190,
+                                209,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        190,
+                                        209,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "Conte (CA): Cacauets, Ous, Soia.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        190,
+                        209,
+                        201
+                    ]
+                },
+                {
+                    "score": 0.887,
+                    "bbox": [
+                        54,
+                        206,
+                        301,
+                        221
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                208,
+                                298,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        208,
+                                        298,
+                                        219
+                                    ],
+                                    "type": "text",
+                                    "content": "Num. de lote: L2026309-662 | Pais de origen: Portugal",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        208,
+                        298,
+                        219
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

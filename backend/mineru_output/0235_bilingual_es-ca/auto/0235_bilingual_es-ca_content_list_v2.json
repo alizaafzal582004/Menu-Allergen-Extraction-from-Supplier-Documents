@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "FICHA TECNICA DE PRODUCTO / FITXA TECNICA DE PRODUCTE"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                109,
+                67,
+                889,
+                117
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Salsa Alioli"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                135,
+                225,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Proveedor / Proveidor: Porto Foodservice Import Lda."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                161,
+                497,
+                178
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ingredientes / Ingredients: yema de huevo pasteurizada, almidon de maiz modificado, azucar de cana, caldo vegetal en polvo, goma xantana, sal, mantequilla de cacahuete, romero, cubos de tofu, chalota."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                186,
+                873,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Conte (CA): Cacauets, Ous, Soia."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                223,
+                354,
+                240
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Num. de lote: L2026309-662 | Pais de origen: Portugal"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                244,
+                505,
+                262
+            ]
+        }
+    ]
+]

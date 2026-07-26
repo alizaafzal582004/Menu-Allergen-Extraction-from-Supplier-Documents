@@ -9,7 +9,7 @@ from app.models import Document
 app = FastAPI(title="Barcelona Bites - Allergen Extraction API")
 
 UPLOAD_DIR = "uploaded_files"
-
+os.makedirs(UPLOAD_DIR, exist_ok=True)
 
 @app.get("/health")
 def health_check():
