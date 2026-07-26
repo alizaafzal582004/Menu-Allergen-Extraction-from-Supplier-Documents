@@ -32,3 +32,6 @@ Thumbs.db
 
 # ---------- Docker ----------
 *.log
+# ---------- Uploaded files (not source code, don't commit) ----------
+backend/uploaded_files/*
+!backend/uploaded_files/.gitkeep
