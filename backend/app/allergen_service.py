@@ -1,5 +1,6 @@
 import os
 import json
+import time
 from openai import OpenAI
 from dotenv import load_dotenv
 
@@ -65,3 +66,20 @@ Document text:
         raise ValueError(f"Qwen did not return valid JSON. Raw output: {result_text}")
 
     return parsed_result
+
+
+def detect_allergens_with_retry(extracted_text: str, max_retries: int = 3, delay_seconds: int = 15) -> dict:
+    """
+    Wraps detect_allergens() with automatic retries, since free-tier OpenRouter
+    providers can be temporarily rate-limited or unavailable.
+    """
+    last_error = None
+    for attempt in range(1, max_retries + 1):
+        try:
+            return detect_allergens(extracted_text)
+        except Exception as e:
+            last_error = e
+            if attempt < max_retries:
+                time.sleep(delay_seconds)
+
+    raise last_error

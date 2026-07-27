@@ -1,3 +1,5 @@
+from fastapi.middleware.cors import CORSMiddleware
+from app.allergen_service import detect_allergens_with_retry
 import os
 import shutil
 from fastapi import FastAPI, UploadFile, File, Depends, HTTPException
@@ -6,9 +8,16 @@ from sqlalchemy.orm import Session
 from app.dependencies import get_db
 from app.models import Document, Ingredient, Allergen
 from app.mineru_service import run_mineru_extraction
-from app.allergen_service import detect_allergens
+# from app.allergen_service import detect_allergens
 
 app = FastAPI(title="Barcelona Bites - Allergen Extraction API")
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 UPLOAD_DIR = "uploaded_files"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
@@ -58,7 +67,7 @@ def process_document(document_id: int, db: Session = Depends(get_db)):
         db.commit()
 
         extracted_text = run_mineru_extraction(pdf_path)
-        result = detect_allergens(extracted_text)
+        result = detect_allergens_with_retry(extracted_text)
 
         for ingredient_name in result.get("ingredients", []):
             new_ingredient = Ingredient(name=ingredient_name, document_id=document.id)

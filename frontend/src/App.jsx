@@ -9,15 +9,19 @@ function App() {
   const [uploadResult, setUploadResult] = useState(null)
   const [error, setError] = useState(null)
 
+  const [processing, setProcessing] = useState(false)
+  const [documentDetail, setDocumentDetail] = useState(null)
+
   const handleFileChange = (event) => {
     setSelectedFile(event.target.files[0])
     setUploadResult(null)
+    setDocumentDetail(null)
     setError(null)
   }
 
   const handleUpload = async () => {
     if (!selectedFile) {
-      setError('Please select a PDF file first.')
+      setError('Select a PDF file before uploading.')
       return
     }
 
@@ -46,27 +50,94 @@ function App() {
     }
   }
 
+  const handleProcess = async () => {
+    if (!uploadResult) return
+
+    setProcessing(true)
+    setError(null)
+
+    try {
+      const response = await fetch(`${API_BASE_URL}/documents/${uploadResult.id}/process`, {
+        method: 'POST',
+      })
+
+      if (!response.ok) {
+        throw new Error(`Processing failed with status ${response.status}`)
+      }
+
+      await response.json()
+
+      const detailResponse = await fetch(`${API_BASE_URL}/documents/${uploadResult.id}`)
+      const detailData = await detailResponse.json()
+      setDocumentDetail(detailData)
+    } catch (err) {
+      setError(err.message)
+    } finally {
+      setProcessing(false)
+    }
+  }
+
   return (
-    <div style={{ maxWidth: '600px', margin: '40px auto', fontFamily: 'sans-serif' }}>
-      <h1>Barcelona Bites - Allergen Extraction</h1>
+    <div className="app-shell">
+      <header className="app-header">
+        <p className="app-eyebrow">Supplier Spec Sheet — Allergen Check</p>
+        <h1 className="app-title">Barcelona Bites</h1>
+        <p className="app-subtitle">Upload a supplier PDF to extract ingredients and flag allergens.</p>
+      </header>
 
-      <div style={{ marginTop: '20px' }}>
-        <input type="file" accept="application/pdf" onChange={handleFileChange} />
-        <button onClick={handleUpload} disabled={uploading} style={{ marginLeft: '10px' }}>
-          {uploading ? 'Uploading...' : 'Upload PDF'}
-        </button>
-      </div>
+      {error && <div className="error-banner">Error: {error}</div>}
 
-      {error && (
-        <p style={{ color: 'red', marginTop: '10px' }}>Error: {error}</p>
-      )}
+      <section className="ticket">
+        <p className="ticket-label">01 — Upload document</p>
+        <div className="upload-row">
+          <input type="file" accept="application/pdf" onChange={handleFileChange} />
+          <button className="btn-primary" onClick={handleUpload} disabled={uploading}>
+            {uploading ? 'Uploading…' : 'Upload PDF'}
+          </button>
+        </div>
+      </section>
 
       {uploadResult && (
-        <div style={{ marginTop: '20px', padding: '15px', border: '1px solid #ccc', borderRadius: '8px' }}>
-          <p><strong>Document ID:</strong> {uploadResult.id}</p>
-          <p><strong>Filename:</strong> {uploadResult.filename}</p>
-          <p><strong>Status:</strong> {uploadResult.status}</p>
-        </div>
+        <section className="ticket">
+          <p className="ticket-label">02 — Document</p>
+          <div className="meta-row">
+            <span className="meta-label">ID</span>
+            <span className="meta-value">{uploadResult.id}</span>
+          </div>
+          <div className="meta-row">
+            <span className="meta-label">Filename</span>
+            <span className="meta-value">{uploadResult.filename}</span>
+          </div>
+          <div className="meta-row">
+            <span className="meta-label">Status</span>
+            <span className={`meta-value status-${documentDetail?.status || uploadResult.status}`}>
+              {documentDetail?.status || uploadResult.status}
+            </span>
+          </div>
+
+          <button className="btn-secondary" onClick={handleProcess} disabled={processing}>
+            {processing ? 'Processing… (1–3 min)' : 'Process Document'}
+          </button>
+        </section>
+      )}
+
+      {documentDetail && (
+        <section className="ticket results-ticket">
+          <div className="results-header">
+            <p className="results-title">Results</p>
+          </div>
+
+          <div className="ingredient-list">
+            {documentDetail.ingredients.map((ingredient) => (
+              <div className="ingredient-row" key={ingredient.id}>
+                <span className="ingredient-name">{ingredient.name}</span>
+                {ingredient.allergens.length > 0 && (
+                  <span className="allergen-tag">⚠ {ingredient.allergens.join(', ')}</span>
+                )}
+              </div>
+            ))}
+          </div>
+        </section>
       )}
     </div>
   )

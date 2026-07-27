@@ -1,0 +1,445 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.8879,
+                "bbox": [
+                    407,
+                    161,
+                    1245,
+                    218
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8414,
+                "bbox": [
+                    206,
+                    253,
+                    920,
+                    290
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8067,
+                "bbox": [
+                    205,
+                    303,
+                    787,
+                    339
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8617,
+                "bbox": [
+                    206,
+                    352,
+                    675,
+                    389
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.871,
+                "bbox": [
+                    206,
+                    402,
+                    672,
+                    439
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8849,
+                "bbox": [
+                    206,
+                    452,
+                    703,
+                    489
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.897,
+                "bbox": [
+                    207,
+                    502,
+                    680,
+                    540
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.903,
+                "bbox": [
+                    206,
+                    552,
+                    859,
+                    590
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9046,
+                "bbox": [
+                    206,
+                    601,
+                    625,
+                    640
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9118,
+                "bbox": [
+                    206,
+                    652,
+                    1038,
+                    690
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9097,
+                "bbox": [
+                    152,
+                    756,
+                    372,
+                    803
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9884,
+                "bbox": [
+                    231,
+                    814,
+                    1419,
+                    1270
+                ],
+                "index": 12,
+                "html": "<table><tr><td rowspan=1 colspan=1>#</td><td rowspan=1 colspan=1>Ingredients</td><td rowspan=1 colspan=1>%</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>chili flakes</td><td rowspan=1 colspan=1>10%</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>sunflower oil</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>olive oil</td><td rowspan=1 colspan=1>11%</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>leek</td><td rowspan=1 colspan=1>12%</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>cane sugar</td><td rowspan=1 colspan=1>12%</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>corn starch</td><td rowspan=1 colspan=1>12%</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>yeast extract</td><td rowspan=1 colspan=1>14%</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>anchovy fillet</td><td rowspan=1 colspan=1>18%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9457,
+                "bbox": [
+                    151,
+                    1334,
+                    662,
+                    1378
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8628,
+                "bbox": [
+                    151,
+                    1397,
+                    358,
+                    1432
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9283,
+                "bbox": [
+                    150,
+                    1432,
+                    902,
+                    1470
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    411,
+                    170,
+                    1239,
+                    223
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    259,
+                    308,
+                    287
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    543,
+                    258,
+                    913,
+                    285
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    310,
+                    367,
+                    333
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    544,
+                    309,
+                    779,
+                    335
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    361,
+                    359,
+                    383
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    542,
+                    359,
+                    667,
+                    384
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    411,
+                    329,
+                    433
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    542,
+                    409,
+                    663,
+                    434
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    458,
+                    360,
+                    486
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    544,
+                    461,
+                    695,
+                    483
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    508,
+                    393,
+                    537
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    542,
+                    509,
+                    672,
+                    535
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    558,
+                    417,
+                    586
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    542,
+                    557,
+                    852,
+                    584
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    606,
+                    333,
+                    639
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    541,
+                    605,
+                    620,
+                    640
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    213,
+                    661,
+                    396,
+                    684
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    543,
+                    658,
+                    1032,
+                    686
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    156,
+                    758,
+                    369,
+                    802
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    1340,
+                    659,
+                    1390
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    157,
+                    1400,
+                    354,
+                    1431
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    158,
+                    1436,
+                    896,
+                    1465
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]
