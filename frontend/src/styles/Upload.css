@@ -1,0 +1,216 @@
+.upload-page {
+  font-family: 'Poppins', sans-serif;
+  background: #EEF5FF;
+  min-height: 100vh;
+  padding: 60px 24px;
+}
+
+.upload-container {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.upload-title {
+  font-size: 30px;
+  font-weight: 600;
+  color: #12303b;
+  margin: 0 0 10px;
+  text-align: center;
+}
+
+.upload-subtitle {
+  font-size: 15px;
+  color: #4a5b63;
+  text-align: center;
+  margin: 0 0 36px;
+}
+
+.upload-error {
+  background: #ffe5e5;
+  color: #b23b3b;
+  border-radius: 12px;
+  padding: 14px 18px;
+  font-size: 14px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* ---------- Dropzone ---------- */
+.dropzone {
+  background: #ffffff;
+  border: 2px dashed #86B6F6;
+  border-radius: 20px;
+  padding: 56px 24px;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.dropzone:hover {
+  border-color: #176B87;
+}
+
+.dropzone-active {
+  border-color: #176B87;
+  background: #f4f9ff;
+}
+
+.dropzone-icon {
+  font-size: 40px;
+  color: #176B87;
+  margin-bottom: 16px;
+}
+
+.dropzone-text {
+  font-size: 15px;
+  color: #4a5b63;
+  margin: 0;
+}
+
+/* ---------- File card ---------- */
+.file-card,
+.uploaded-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 16px 18px;
+  margin-top: 20px;
+  box-shadow: 0 4px 14px rgba(23, 107, 135, 0.08);
+}
+
+.file-card-icon {
+  font-size: 22px;
+  color: #176B87;
+  flex-shrink: 0;
+}
+
+.file-card-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+}
+
+.file-card-name {
+  font-size: 14px;
+  font-weight: 500;
+  color: #12303b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.file-card-size {
+  font-size: 12px;
+  color: #4a5b63;
+}
+
+.file-card-remove {
+  background: transparent;
+  border: none;
+  color: #4a5b63;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 4px;
+  display: flex;
+}
+
+.file-card-remove:hover {
+  color: #b23b3b;
+}
+
+/* ---------- Status badge ---------- */
+.status-badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 4px 10px;
+  border-radius: 999px;
+  width: fit-content;
+}
+
+.status-uploaded { background: #B4D4FF; color: #176B87; }
+.status-processing { background: #ffe9b3; color: #8a6300; }
+.status-processed { background: #cdeed9; color: #1f7a4d; }
+.status-failed { background: #ffe5e5; color: #b23b3b; }
+
+/* ---------- Actions ---------- */
+.upload-actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.spin {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* ---------- Recent documents ---------- */
+.recent-docs {
+  margin-top: 56px;
+}
+
+.recent-docs-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #12303b;
+  margin: 0 0 16px;
+}
+
+.recent-docs-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.recent-doc-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 12px 16px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(23, 107, 135, 0.06);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.recent-doc-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(23, 107, 135, 0.12);
+}
+
+.recent-doc-item svg {
+  color: #176B87;
+  flex-shrink: 0;
+}
+
+.recent-doc-name {
+  flex: 1;
+  font-size: 13px;
+  color: #12303b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 480px) {
+  .dropzone {
+    padding: 36px 16px;
+  }
+  .upload-actions {
+    flex-direction: column;
+  }
+}

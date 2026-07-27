@@ -1,0 +1,260 @@
+.results-page {
+  font-family: 'Poppins', sans-serif;
+  background: #EEF5FF;
+  min-height: 100vh;
+  padding: 48px 24px 80px;
+}
+
+.results-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.results-centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  text-align: center;
+  padding-top: 120px;
+}
+
+.results-loading-icon {
+  font-size: 32px;
+  color: #176B87;
+}
+
+.results-error {
+  color: #b23b3b;
+  font-size: 15px;
+}
+
+/* ---------- Back link ---------- */
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  border: none;
+  color: #176B87;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-bottom: 24px;
+  padding: 0;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+/* ---------- Header ---------- */
+.results-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.results-title {
+  font-size: 24px;
+  font-weight: 600;
+  color: #12303b;
+  margin: 0 0 10px;
+  word-break: break-word;
+}
+
+.export-actions {
+  display: flex;
+  gap: 10px;
+}
+
+/* ---------- Status badge (shared with Upload.css naming) ---------- */
+.status-badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 4px 10px;
+  border-radius: 999px;
+}
+
+.status-uploaded { background: #B4D4FF; color: #176B87; }
+.status-processing { background: #ffe9b3; color: #8a6300; }
+.status-processed { background: #cdeed9; color: #1f7a4d; }
+.status-failed { background: #ffe5e5; color: #b23b3b; }
+
+/* ---------- Allergen summary banner ---------- */
+.allergen-summary {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  background: #fff4e0;
+  border: 1px solid #ffcf7a;
+  border-radius: 14px;
+  padding: 16px 18px;
+  font-size: 14px;
+  color: #6b4a00;
+  margin-bottom: 28px;
+}
+
+.allergen-summary-icon {
+  font-size: 20px;
+  color: #b8860b;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+/* ---------- Toolbar ---------- */
+.results-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-bottom: 20px;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 10px 14px;
+  box-shadow: 0 2px 8px rgba(23, 107, 135, 0.08);
+  flex: 1;
+  min-width: 200px;
+}
+
+.search-box svg {
+  color: #4a5b63;
+  flex-shrink: 0;
+}
+
+.search-box input {
+  border: none;
+  outline: none;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  width: 100%;
+  background: transparent;
+  color: #12303b;
+}
+
+.filter-tabs {
+  display: flex;
+  gap: 6px;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 4px;
+  box-shadow: 0 2px 8px rgba(23, 107, 135, 0.08);
+}
+
+.filter-tab {
+  border: none;
+  background: transparent;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  color: #4a5b63;
+  padding: 7px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.filter-tab.active {
+  background: #176B87;
+  color: #ffffff;
+}
+
+/* ---------- Table ---------- */
+.results-table {
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgba(23, 107, 135, 0.08);
+  overflow: hidden;
+}
+
+.results-table-header {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  padding: 14px 20px;
+  background: #f4f9ff;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #4a5b63;
+}
+
+.results-table-row {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  padding: 16px 20px;
+  border-top: 1px solid #EEF5FF;
+  align-items: center;
+}
+
+.ingredient-cell {
+  font-size: 14px;
+  color: #12303b;
+}
+
+.allergen-cell {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.allergen-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: #ffe5e5;
+  color: #b23b3b;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 999px;
+}
+
+.safe-label {
+  font-size: 13px;
+  color: #8a9aa0;
+}
+
+.results-empty {
+  text-align: center;
+  padding: 40px 20px;
+  color: #4a5b63;
+  font-size: 14px;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 600px) {
+  .results-header {
+    flex-direction: column;
+  }
+  .results-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .filter-tabs {
+    justify-content: space-between;
+  }
+  .results-table-header,
+  .results-table-row {
+    grid-template-columns: 1fr;
+    gap: 6px;
+  }
+  .results-table-header span:last-child {
+    display: none;
+  }
+}
