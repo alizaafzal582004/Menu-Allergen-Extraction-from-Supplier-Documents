@@ -1,6 +1,6 @@
 .results-page {
   font-family: 'Poppins', sans-serif;
-  background: #EEF5FF;
+  background: #F8F8F8;
   min-height: 100vh;
   padding: 48px 24px 80px;
 }
@@ -22,11 +22,11 @@
 
 .results-loading-icon {
   font-size: 32px;
-  color: #176B87;
+  color: #F4B323;
 }
 
 .results-error {
-  color: #b23b3b;
+  color: #C81D25;
   font-size: 15px;
 }
 
@@ -37,7 +37,7 @@
   gap: 8px;
   background: transparent;
   border: none;
-  color: #176B87;
+  color: #1A1A1A;
   font-family: 'Poppins', sans-serif;
   font-size: 14px;
   font-weight: 500;
@@ -63,7 +63,7 @@
 .results-title {
   font-size: 24px;
   font-weight: 600;
-  color: #12303b;
+  color: #1A1A1A;
   margin: 0 0 10px;
   word-break: break-word;
 }
@@ -73,7 +73,7 @@
   gap: 10px;
 }
 
-/* ---------- Status badge (shared with Upload.css naming) ---------- */
+/* ---------- Status badge ---------- */
 .status-badge {
   display: inline-block;
   font-size: 11px;
@@ -84,28 +84,28 @@
   border-radius: 999px;
 }
 
-.status-uploaded { background: #B4D4FF; color: #176B87; }
-.status-processing { background: #ffe9b3; color: #8a6300; }
-.status-processed { background: #cdeed9; color: #1f7a4d; }
-.status-failed { background: #ffe5e5; color: #b23b3b; }
+.status-uploaded { background: #D9D9D9; color: #1A1A1A; }
+.status-processing { background: #F4B323; color: #1A1A1A; }
+.status-processed { background: #1A1A1A; color: #F8F8F8; }
+.status-failed { background: #C81D25; color: #F8F8F8; }
 
 /* ---------- Allergen summary banner ---------- */
 .allergen-summary {
   display: flex;
   align-items: flex-start;
   gap: 12px;
-  background: #fff4e0;
-  border: 1px solid #ffcf7a;
+  background: rgba(200, 29, 37, 0.08);
+  border: 1px solid rgba(200, 29, 37, 0.3);
   border-radius: 14px;
   padding: 16px 18px;
   font-size: 14px;
-  color: #6b4a00;
+  color: #1A1A1A;
   margin-bottom: 28px;
 }
 
 .allergen-summary-icon {
   font-size: 20px;
-  color: #b8860b;
+  color: #C81D25;
   flex-shrink: 0;
   margin-top: 1px;
 }
@@ -124,16 +124,16 @@
   display: flex;
   align-items: center;
   gap: 8px;
-  background: #ffffff;
+  background: #FFFFFF;
   border-radius: 10px;
   padding: 10px 14px;
-  box-shadow: 0 2px 8px rgba(23, 107, 135, 0.08);
+  box-shadow: 0 2px 8px rgba(26, 26, 26, 0.08);
   flex: 1;
   min-width: 200px;
 }
 
 .search-box svg {
-  color: #4a5b63;
+  color: rgba(26, 26, 26, 0.55);
   flex-shrink: 0;
 }
 
@@ -144,16 +144,16 @@
   font-size: 14px;
   width: 100%;
   background: transparent;
-  color: #12303b;
+  color: #1A1A1A;
 }
 
 .filter-tabs {
   display: flex;
   gap: 6px;
-  background: #ffffff;
+  background: #FFFFFF;
   border-radius: 10px;
   padding: 4px;
-  box-shadow: 0 2px 8px rgba(23, 107, 135, 0.08);
+  box-shadow: 0 2px 8px rgba(26, 26, 26, 0.08);
 }
 
 .filter-tab {
@@ -162,7 +162,7 @@
   font-family: 'Poppins', sans-serif;
   font-size: 13px;
   font-weight: 500;
-  color: #4a5b63;
+  color: rgba(26, 26, 26, 0.65);
   padding: 7px 14px;
   border-radius: 8px;
   cursor: pointer;
@@ -170,15 +170,15 @@
 }
 
 .filter-tab.active {
-  background: #176B87;
-  color: #ffffff;
+  background: #F4B323;
+  color: #1A1A1A;
 }
 
 /* ---------- Table ---------- */
 .results-table {
-  background: #ffffff;
+  background: #FFFFFF;
   border-radius: 16px;
-  box-shadow: 0 4px 16px rgba(23, 107, 135, 0.08);
+  box-shadow: 0 4px 16px rgba(26, 26, 26, 0.08);
   overflow: hidden;
 }
 
@@ -186,25 +186,25 @@
   display: grid;
   grid-template-columns: 1fr 2fr;
   padding: 14px 20px;
-  background: #f4f9ff;
+  background: #F8F8F8;
   font-size: 12px;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  color: #4a5b63;
+  color: rgba(26, 26, 26, 0.6);
 }
 
 .results-table-row {
   display: grid;
   grid-template-columns: 1fr 2fr;
   padding: 16px 20px;
-  border-top: 1px solid #EEF5FF;
+  border-top: 1px solid #F8F8F8;
   align-items: center;
 }
 
 .ingredient-cell {
   font-size: 14px;
-  color: #12303b;
+  color: #1A1A1A;
 }
 
 .allergen-cell {
@@ -217,8 +217,8 @@
   display: inline-flex;
   align-items: center;
   gap: 5px;
-  background: #ffe5e5;
-  color: #b23b3b;
+  background: #C81D25;
+  color: #F8F8F8;
   font-size: 12px;
   font-weight: 600;
   padding: 4px 10px;
@@ -227,13 +227,13 @@
 
 .safe-label {
   font-size: 13px;
-  color: #8a9aa0;
+  color: rgba(26, 26, 26, 0.45);
 }
 
 .results-empty {
   text-align: center;
   padding: 40px 20px;
-  color: #4a5b63;
+  color: rgba(26, 26, 26, 0.6);
   font-size: 14px;
 }
 

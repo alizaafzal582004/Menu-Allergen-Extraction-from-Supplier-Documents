@@ -1,7 +1,7 @@
 .home-page {
   font-family: 'Poppins', sans-serif;
-  background: #EEF5FF;
-  color: #1a1a1a;
+  background: #F8F8F8;
+  color: #1A1A1A;
   min-height: 100vh;
 }
 
@@ -10,9 +10,9 @@
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(238, 245, 255, 0.75);
+  background: rgba(248, 248, 248, 0.85);
   backdrop-filter: blur(12px);
-  border-bottom: 1px solid #B4D4FF;
+  border-bottom: 1px solid #D9D9D9;
 }
 
 .navbar-inner {
@@ -39,7 +39,7 @@
 .navbar-logo-text {
   font-weight: 600;
   font-size: 18px;
-  color: #176B87;
+  color: #1A1A1A;
 }
 
 .navbar-links {
@@ -49,14 +49,14 @@
 }
 
 .navbar-links a {
-  color: #1a1a1a;
+  color: #1A1A1A;
   text-decoration: none;
   font-size: 14px;
   font-weight: 500;
 }
 
 .navbar-links a:hover {
-  color: #176B87;
+  color: #C81D25;
 }
 
 /* ---------- Buttons ---------- */
@@ -80,24 +80,24 @@
 }
 
 .btn-primary {
-  background: #176B87;
-  color: #ffffff;
-  box-shadow: 0 4px 14px rgba(23, 107, 135, 0.3);
+  background: #F4B323;
+  color: #1A1A1A;
+  box-shadow: 0 4px 14px rgba(244, 179, 35, 0.35);
 }
 
 .btn-primary:hover {
-  box-shadow: 0 6px 20px rgba(23, 107, 135, 0.4);
+  box-shadow: 0 6px 20px rgba(244, 179, 35, 0.5);
 }
 
 .btn-secondary {
-  background: #B4D4FF;
-  color: #176B87;
+  background: #D9D9D9;
+  color: #1A1A1A;
 }
 
 .btn-ghost {
   background: transparent;
-  color: #176B87;
-  border: 1px solid #86B6F6;
+  color: #1A1A1A;
+  border: 1px solid #D9D9D9;
 }
 
 .btn-sm {
@@ -115,8 +115,8 @@
 
 .hero-eyebrow {
   display: inline-block;
-  background: #B4D4FF;
-  color: #176B87;
+  background: #F4B323;
+  color: #1A1A1A;
   font-size: 13px;
   font-weight: 600;
   padding: 6px 16px;
@@ -129,13 +129,13 @@
   font-weight: 600;
   line-height: 1.25;
   margin: 0 0 20px;
-  color: #12303b;
+  color: #1A1A1A;
 }
 
 .hero-subtitle {
   font-size: 17px;
   line-height: 1.6;
-  color: #4a5b63;
+  color: rgba(26, 26, 26, 0.65);
   margin: 0 0 36px;
 }
 
@@ -151,7 +151,7 @@
   text-align: center;
   font-size: 28px;
   font-weight: 600;
-  color: #12303b;
+  color: #1A1A1A;
   margin: 0 0 40px;
 }
 
@@ -169,21 +169,21 @@
 }
 
 .feature-card {
-  background: #ffffff;
+  background: #FFFFFF;
   border-radius: 16px;
   padding: 28px 22px;
-  box-shadow: 0 4px 16px rgba(23, 107, 135, 0.08);
+  box-shadow: 0 4px 16px rgba(26, 26, 26, 0.08);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .feature-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(23, 107, 135, 0.14);
+  box-shadow: 0 8px 24px rgba(26, 26, 26, 0.14);
 }
 
 .feature-icon {
   font-size: 26px;
-  color: #176B87;
+  color: #C81D25;
   margin-bottom: 14px;
 }
 
@@ -191,12 +191,12 @@
   font-size: 16px;
   font-weight: 600;
   margin: 0 0 8px;
-  color: #12303b;
+  color: #1A1A1A;
 }
 
 .feature-card p {
   font-size: 14px;
-  color: #4a5b63;
+  color: rgba(26, 26, 26, 0.65);
   line-height: 1.5;
   margin: 0;
 }
@@ -215,10 +215,10 @@
 }
 
 .step-card {
-  background: #ffffff;
+  background: #FFFFFF;
   border-radius: 16px;
   padding: 32px 24px;
-  box-shadow: 0 4px 16px rgba(23, 107, 135, 0.08);
+  box-shadow: 0 4px 16px rgba(26, 26, 26, 0.08);
   position: relative;
 }
 
@@ -229,8 +229,8 @@
   width: 36px;
   height: 36px;
   border-radius: 50%;
-  background: #176B87;
-  color: #ffffff;
+  background: #F4B323;
+  color: #1A1A1A;
   font-weight: 600;
   font-size: 15px;
   margin-bottom: 16px;
@@ -240,19 +240,19 @@
   font-size: 17px;
   font-weight: 600;
   margin: 0 0 8px;
-  color: #12303b;
+  color: #1A1A1A;
 }
 
 .step-card p {
   font-size: 14px;
-  color: #4a5b63;
+  color: rgba(26, 26, 26, 0.65);
   line-height: 1.5;
   margin: 0;
 }
 
 /* ---------- Benefits ---------- */
 .benefits {
-  background: #ffffff;
+  background: #FFFFFF;
   padding: 60px 24px;
 }
 
@@ -277,14 +277,14 @@
   align-items: center;
   gap: 12px;
   font-size: 15px;
-  color: #1a1a1a;
-  background: #EEF5FF;
+  color: #1A1A1A;
+  background: #F8F8F8;
   padding: 14px 18px;
   border-radius: 12px;
 }
 
 .benefits-list svg {
-  color: #176B87;
+  color: #C81D25;
   flex-shrink: 0;
   font-size: 18px;
 }
@@ -293,9 +293,9 @@
 .footer {
   text-align: center;
   padding: 32px 24px;
-  color: #4a5b63;
+  color: rgba(26, 26, 26, 0.6);
   font-size: 13px;
-  border-top: 1px solid #B4D4FF;
+  border-top: 1px solid #D9D9D9;
 }
 
 /* ---------- Responsive ---------- */
