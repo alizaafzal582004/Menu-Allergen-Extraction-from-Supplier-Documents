@@ -1,0 +1,219 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9338,
+                "bbox": [
+                    201,
+                    263,
+                    1109,
+                    338
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9207,
+                "bbox": [
+                    203,
+                    392,
+                    1249,
+                    455
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8898,
+                "bbox": [
+                    206,
+                    466,
+                    909,
+                    527
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8538,
+                "bbox": [
+                    208,
+                    536,
+                    820,
+                    597
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9129,
+                "bbox": [
+                    211,
+                    659,
+                    485,
+                    714
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8928,
+                "bbox": [
+                    210,
+                    716,
+                    1704,
+                    775
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8189,
+                "bbox": [
+                    211,
+                    775,
+                    1440,
+                    835
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.718,
+                "bbox": [
+                    213,
+                    827,
+                    2128,
+                    1052
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.7205,
+                "bbox": [
+                    220,
+                    1161,
+                    2183,
+                    1276
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9356,
+                "bbox": [
+                    218,
+                    1367,
+                    1091,
+                    1420
+                ],
+                "index": 11
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    198,
+                    267,
+                    1106,
+                    334
+                ],
+                "score": 0.981,
+                "text": "FICHA TECNICA DE PRODUCTO"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    204,
+                    396,
+                    1245,
+                    449
+                ],
+                "score": 0.994,
+                "text": "Nombre del producto: Mezcla de Croquetas Congeladas"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    205,
+                    465,
+                    908,
+                    525
+                ],
+                "score": 0.999,
+                "text": "Proveedor: Congelados del Ebro S.A."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    535,
+                    818,
+                    595
+                ],
+                "score": 0.997,
+                "text": "Codigo de producto: SKU-96951"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    659,
+                    486,
+                    714
+                ],
+                "score": 1.0,
+                "text": "Ingredientes:"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    714,
+                    1705,
+                    778
+                ],
+                "score": 0.993,
+                "text": "aceite de oliva, extracto de cangrejo, almidon de trigo, harina de altramuz, pimienta negra,"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    775,
+                    1438,
+                    836
+                ],
+                "score": 0.989,
+                "text": "concentrado de tomate, hoja de laurel, aceite de girasol, cebolla en polvo."
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    221,
+                    1370,
+                    1090,
+                    1413
+                ],
+                "score": 0.969,
+                "text": "X = presente T = puede contener trazas - = no presente"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2505,
+            "height": 3500
+        }
+    }
+]

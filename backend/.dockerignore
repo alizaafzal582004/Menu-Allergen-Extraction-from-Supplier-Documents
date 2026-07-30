@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+uploaded_files/*
+mineru_output/*
+evaluation_results.json

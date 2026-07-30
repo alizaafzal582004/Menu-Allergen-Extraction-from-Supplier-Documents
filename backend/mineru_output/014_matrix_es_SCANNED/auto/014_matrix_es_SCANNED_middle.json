@@ -1,0 +1,786 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.9338,
+                    "bbox": [
+                        101,
+                        133,
+                        562,
+                        171
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                100,
+                                135,
+                                561,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        100,
+                                        135,
+                                        561,
+                                        169
+                                    ],
+                                    "type": "text",
+                                    "content": "FICHA TECNICA DE PRODUCTO",
+                                    "score": 0.981
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9207,
+                    "bbox": [
+                        103,
+                        198,
+                        633,
+                        230
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                103,
+                                200,
+                                631,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        200,
+                                        631,
+                                        227
+                                    ],
+                                    "type": "text",
+                                    "content": "Nombre del producto: Mezcla de Croquetas Congeladas",
+                                    "score": 0.994
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8898,
+                    "bbox": [
+                        104,
+                        236,
+                        461,
+                        267
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                104,
+                                235,
+                                460,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        235,
+                                        460,
+                                        266
+                                    ],
+                                    "type": "text",
+                                    "content": "Proveedor: Congelados del Ebro S.A.",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8538,
+                    "bbox": [
+                        105,
+                        271,
+                        416,
+                        302
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                107,
+                                271,
+                                415,
+                                301
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        271,
+                                        415,
+                                        301
+                                    ],
+                                    "type": "text",
+                                    "content": "Codigo de producto: SKU-96951",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9129,
+                    "bbox": [
+                        107,
+                        334,
+                        246,
+                        362
+                    ],
+                    "index": 5,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                334,
+                                246,
+                                362
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        334,
+                                        246,
+                                        362
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredientes:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8928,
+                    "bbox": [
+                        106,
+                        363,
+                        864,
+                        393
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                362,
+                                865,
+                                394
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        362,
+                                        865,
+                                        394
+                                    ],
+                                    "type": "text",
+                                    "content": "aceite de oliva, extracto de cangrejo, almidon de trigo, harina de altramuz, pimienta negra,",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8189,
+                    "bbox": [
+                        107,
+                        393,
+                        730,
+                        423
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                393,
+                                729,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        393,
+                                        729,
+                                        424
+                                    ],
+                                    "type": "text",
+                                    "content": "concentrado de tomate, hoja de laurel, aceite de girasol, cebolla en polvo.",
+                                    "score": 0.989
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        108,
+                        419,
+                        1079,
+                        533
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.718,
+                            "bbox": [
+                                108,
+                                419,
+                                1079,
+                                533
+                            ],
+                            "index": 8,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        419,
+                                        1079,
+                                        533
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                108,
+                                                419,
+                                                1079,
+                                                533
+                                            ],
+                                            "type": "image",
+                                            "image_path": "5af15229f65af0b6a524f06916bf85af0d70f286e1e55ec2dd1f53017c0cf146.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "score": 0.718
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        111,
+                        589,
+                        1107,
+                        647
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7205,
+                            "bbox": [
+                                111,
+                                589,
+                                1107,
+                                647
+                            ],
+                            "index": 9,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        589,
+                                        1107,
+                                        647
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                111,
+                                                589,
+                                                1107,
+                                                647
+                                            ],
+                                            "type": "image",
+                                            "image_path": "72a36b4473e47f5820d24a6a4a0dc968ce9ba405fb566da2306b3a1467aec384.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "score": 0.7205
+                },
+                {
+                    "score": 0.9356,
+                    "bbox": [
+                        110,
+                        693,
+                        553,
+                        720
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                112,
+                                695,
+                                553,
+                                716
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        695,
+                                        553,
+                                        716
+                                    ],
+                                    "type": "text",
+                                    "content": "X = presente T = puede contener trazas - = no presente",
+                                    "score": 0.969
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                1271,
+                1776
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.9338,
+                    "bbox": [
+                        101,
+                        133,
+                        562,
+                        171
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                100,
+                                135,
+                                561,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        100,
+                                        135,
+                                        561,
+                                        169
+                                    ],
+                                    "type": "text",
+                                    "content": "FICHA TECNICA DE PRODUCTO",
+                                    "score": 0.981
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9207,
+                    "bbox": [
+                        103,
+                        198,
+                        633,
+                        230
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                103,
+                                200,
+                                631,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        200,
+                                        631,
+                                        227
+                                    ],
+                                    "type": "text",
+                                    "content": "Nombre del producto: Mezcla de Croquetas Congeladas",
+                                    "score": 0.994
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        103,
+                        200,
+                        631,
+                        227
+                    ]
+                },
+                {
+                    "score": 0.8898,
+                    "bbox": [
+                        104,
+                        236,
+                        461,
+                        267
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                104,
+                                235,
+                                460,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        235,
+                                        460,
+                                        266
+                                    ],
+                                    "type": "text",
+                                    "content": "Proveedor: Congelados del Ebro S.A.",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        104,
+                        235,
+                        460,
+                        266
+                    ]
+                },
+                {
+                    "score": 0.8538,
+                    "bbox": [
+                        105,
+                        271,
+                        416,
+                        302
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                107,
+                                271,
+                                415,
+                                301
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        271,
+                                        415,
+                                        301
+                                    ],
+                                    "type": "text",
+                                    "content": "Codigo de producto: SKU-96951",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        107,
+                        271,
+                        415,
+                        301
+                    ]
+                },
+                {
+                    "score": 0.9129,
+                    "bbox": [
+                        107,
+                        334,
+                        246,
+                        362
+                    ],
+                    "index": 5,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                334,
+                                246,
+                                362
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        334,
+                                        246,
+                                        362
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredientes:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.8928,
+                    "bbox": [
+                        106,
+                        363,
+                        864,
+                        393
+                    ],
+                    "index": 6,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                362,
+                                865,
+                                394
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        362,
+                                        865,
+                                        394
+                                    ],
+                                    "type": "text",
+                                    "content": "aceite de oliva, extracto de cangrejo, almidon de trigo, harina de altramuz, pimienta negra,",
+                                    "score": 0.993
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        105,
+                        362,
+                        865,
+                        394
+                    ]
+                },
+                {
+                    "score": 0.8189,
+                    "bbox": [
+                        107,
+                        393,
+                        730,
+                        423
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                106,
+                                393,
+                                729,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        393,
+                                        729,
+                                        424
+                                    ],
+                                    "type": "text",
+                                    "content": "concentrado de tomate, hoja de laurel, aceite de girasol, cebolla en polvo.",
+                                    "score": 0.989
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        106,
+                        393,
+                        729,
+                        424
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        108,
+                        419,
+                        1079,
+                        533
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.718,
+                            "bbox": [
+                                108,
+                                419,
+                                1079,
+                                533
+                            ],
+                            "index": 8,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        419,
+                                        1079,
+                                        533
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                108,
+                                                419,
+                                                1079,
+                                                533
+                                            ],
+                                            "type": "image",
+                                            "image_path": "5af15229f65af0b6a524f06916bf85af0d70f286e1e55ec2dd1f53017c0cf146.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "score": 0.718
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        111,
+                        589,
+                        1107,
+                        647
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7205,
+                            "bbox": [
+                                111,
+                                589,
+                                1107,
+                                647
+                            ],
+                            "index": 9,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        589,
+                                        1107,
+                                        647
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                111,
+                                                589,
+                                                1107,
+                                                647
+                                            ],
+                                            "type": "image",
+                                            "image_path": "72a36b4473e47f5820d24a6a4a0dc968ce9ba405fb566da2306b3a1467aec384.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "score": 0.7205
+                },
+                {
+                    "score": 0.9356,
+                    "bbox": [
+                        110,
+                        693,
+                        553,
+                        720
+                    ],
+                    "index": 10,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                112,
+                                695,
+                                553,
+                                716
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        695,
+                                        553,
+                                        716
+                                    ],
+                                    "type": "text",
+                                    "content": "X = presente T = puede contener trazas - = no presente",
+                                    "score": 0.969
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        112,
+                        695,
+                        553,
+                        716
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

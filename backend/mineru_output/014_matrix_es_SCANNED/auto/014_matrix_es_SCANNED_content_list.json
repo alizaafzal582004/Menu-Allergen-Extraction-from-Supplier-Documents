@@ -1,0 +1,118 @@
+[
+    {
+        "type": "text",
+        "text": "FICHA TECNICA DE PRODUCTO",
+        "text_level": 2,
+        "bbox": [
+            79,
+            74,
+            442,
+            96
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nombre del producto: Mezcla de Croquetas Congeladas",
+        "bbox": [
+            81,
+            111,
+            498,
+            129
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Proveedor: Congelados del Ebro S.A.",
+        "bbox": [
+            81,
+            132,
+            362,
+            150
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Codigo de producto: SKU-96951",
+        "bbox": [
+            82,
+            152,
+            327,
+            170
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ingredientes:",
+        "text_level": 2,
+        "bbox": [
+            84,
+            188,
+            193,
+            203
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aceite de oliva, extracto de cangrejo, almidon de trigo, harina de altramuz, pimienta negra,",
+        "bbox": [
+            83,
+            204,
+            679,
+            221
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "concentrado de tomate, hoja de laurel, aceite de girasol, cebolla en polvo.",
+        "bbox": [
+            84,
+            221,
+            574,
+            238
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5af15229f65af0b6a524f06916bf85af0d70f286e1e55ec2dd1f53017c0cf146.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            84,
+            235,
+            848,
+            300
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/72a36b4473e47f5820d24a6a4a0dc968ce9ba405fb566da2306b3a1467aec384.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            87,
+            331,
+            870,
+            364
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X = presente T = puede contener trazas - = no presente",
+        "bbox": [
+            86,
+            390,
+            435,
+            405
+        ],
+        "page_idx": 0
+    }
+]

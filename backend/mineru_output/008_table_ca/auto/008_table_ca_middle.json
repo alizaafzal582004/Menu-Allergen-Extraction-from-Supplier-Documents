@@ -1,0 +1,847 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "score": 0.9319,
+                    "bbox": [
+                        159,
+                        63,
+                        435,
+                        84
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                159,
+                                65,
+                                434,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        159,
+                                        65,
+                                        434,
+                                        86
+                                    ],
+                                    "type": "text",
+                                    "content": "FITXA TECNICA DE PRODUCTE",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 1
+                },
+                {
+                    "score": 0.9065,
+                    "bbox": [
+                        80,
+                        98,
+                        289,
+                        112
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                100,
+                                286,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        101,
+                                        125,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Proveidor:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        182,
+                                        100,
+                                        286,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "EuroFood Wholesale B.V.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9165,
+                    "bbox": [
+                        80,
+                        116,
+                        299,
+                        130
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                118,
+                                297,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        119,
+                                        158,
+                                        127
+                                    ],
+                                    "type": "text",
+                                    "content": "Nom del producte:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        181,
+                                        118,
+                                        297,
+                                        128
+                                    ],
+                                    "type": "text",
+                                    "content": "Pols de Mousse de Xocolata",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9108,
+                    "bbox": [
+                        81,
+                        134,
+                        232,
+                        148
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                137,
+                                230,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        137,
+                                        155,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": "Codi de producte:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        182,
+                                        137,
+                                        230,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": "SKU-18392",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9112,
+                    "bbox": [
+                        81,
+                        152,
+                        231,
+                        166
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                154,
+                                228,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        154,
+                                        145,
+                                        164
+                                    ],
+                                    "type": "text",
+                                    "content": "Data d'emissio:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        182,
+                                        155,
+                                        228,
+                                        164
+                                    ],
+                                    "type": "text",
+                                    "content": "11/01/2026",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.942,
+                    "bbox": [
+                        54,
+                        192,
+                        134,
+                        209
+                    ],
+                    "index": 6,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                192,
+                                133,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        192,
+                                        133,
+                                        208
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9587,
+                    "bbox": [
+                        53,
+                        214,
+                        516,
+                        240
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                216,
+                                514,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        216,
+                                        514,
+                                        225
+                                    ],
+                                    "type": "text",
+                                    "content": "tahini, romaní, extracte de llevat, ou líquid sencer, farina d'arròs, midó de patata, pebre vermell, fulla de",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                227,
+                                83,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        227,
+                                        83,
+                                        239
+                                    ],
+                                    "type": "text",
+                                    "content": "llorer.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8985,
+                    "bbox": [
+                        54,
+                        261,
+                        297,
+                        278
+                    ],
+                    "index": 8,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                263,
+                                295,
+                                280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        263,
+                                        295,
+                                        280
+                                    ],
+                                    "type": "text",
+                                    "content": "INFORMACIO SOBRE AL·LERGENS",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.5273,
+                    "bbox": [
+                        54,
+                        284,
+                        232,
+                        310
+                    ],
+                    "index": 9,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                285,
+                                196,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        285,
+                                        196,
+                                        296
+                                    ],
+                                    "type": "text",
+                                    "content": "Conte: Ous, Llavors de sèsam.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                297,
+                                229,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        297,
+                                        229,
+                                        308
+                                    ],
+                                    "type": "text",
+                                    "content": "Pot contenir traces de: Mostassa, Peix.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "score": 0.9319,
+                    "bbox": [
+                        159,
+                        63,
+                        435,
+                        84
+                    ],
+                    "index": 1,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                159,
+                                65,
+                                434,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        159,
+                                        65,
+                                        434,
+                                        86
+                                    ],
+                                    "type": "text",
+                                    "content": "FITXA TECNICA DE PRODUCTE",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 1
+                },
+                {
+                    "score": 0.9065,
+                    "bbox": [
+                        80,
+                        98,
+                        289,
+                        112
+                    ],
+                    "index": 2,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                100,
+                                286,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        101,
+                                        125,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Proveidor:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        182,
+                                        100,
+                                        286,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "EuroFood Wholesale B.V.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        83,
+                        100,
+                        286,
+                        110
+                    ]
+                },
+                {
+                    "score": 0.9165,
+                    "bbox": [
+                        80,
+                        116,
+                        299,
+                        130
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                118,
+                                297,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        119,
+                                        158,
+                                        127
+                                    ],
+                                    "type": "text",
+                                    "content": "Nom del producte:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        181,
+                                        118,
+                                        297,
+                                        128
+                                    ],
+                                    "type": "text",
+                                    "content": "Pols de Mousse de Xocolata",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        83,
+                        118,
+                        297,
+                        128
+                    ]
+                },
+                {
+                    "score": 0.9108,
+                    "bbox": [
+                        81,
+                        134,
+                        232,
+                        148
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                137,
+                                230,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        137,
+                                        155,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": "Codi de producte:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        182,
+                                        137,
+                                        230,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": "SKU-18392",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        83,
+                        137,
+                        230,
+                        146
+                    ]
+                },
+                {
+                    "score": 0.9112,
+                    "bbox": [
+                        81,
+                        152,
+                        231,
+                        166
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                154,
+                                228,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        154,
+                                        145,
+                                        164
+                                    ],
+                                    "type": "text",
+                                    "content": "Data d'emissio:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        182,
+                                        155,
+                                        228,
+                                        164
+                                    ],
+                                    "type": "text",
+                                    "content": "11/01/2026",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        83,
+                        154,
+                        228,
+                        164
+                    ]
+                },
+                {
+                    "score": 0.942,
+                    "bbox": [
+                        54,
+                        192,
+                        134,
+                        209
+                    ],
+                    "index": 6,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                192,
+                                133,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        192,
+                                        133,
+                                        208
+                                    ],
+                                    "type": "text",
+                                    "content": "Ingredients",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.9587,
+                    "bbox": [
+                        53,
+                        214,
+                        516,
+                        240
+                    ],
+                    "index": 7,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                216,
+                                514,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        216,
+                                        514,
+                                        225
+                                    ],
+                                    "type": "text",
+                                    "content": "tahini, romaní, extracte de llevat, ou líquid sencer, farina d'arròs, midó de patata, pebre vermell, fulla de",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                227,
+                                83,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        227,
+                                        83,
+                                        239
+                                    ],
+                                    "type": "text",
+                                    "content": "llorer.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        54,
+                        216,
+                        514,
+                        239
+                    ]
+                },
+                {
+                    "score": 0.8985,
+                    "bbox": [
+                        54,
+                        261,
+                        297,
+                        278
+                    ],
+                    "index": 8,
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                263,
+                                295,
+                                280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        263,
+                                        295,
+                                        280
+                                    ],
+                                    "type": "text",
+                                    "content": "INFORMACIO SOBRE AL·LERGENS",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "score": 0.5273,
+                    "bbox": [
+                        54,
+                        284,
+                        232,
+                        310
+                    ],
+                    "index": 9,
+                    "type": "list",
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                285,
+                                196,
+                                296
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        285,
+                                        196,
+                                        296
+                                    ],
+                                    "type": "text",
+                                    "content": "Conte: Ous, Llavors de sèsam.",
+                                    "score": 1.0
+                                }
+                            ],
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                297,
+                                229,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        297,
+                                        229,
+                                        308
+                                    ],
+                                    "type": "text",
+                                    "content": "Pot contenir traces de: Mostassa, Peix.",
+                                    "score": 1.0
+                                }
+                            ],
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        285,
+                        229,
+                        308
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.4.4"
+}

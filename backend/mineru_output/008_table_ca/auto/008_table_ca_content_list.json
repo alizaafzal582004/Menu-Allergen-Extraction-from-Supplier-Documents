@@ -1,0 +1,104 @@
+[
+    {
+        "type": "text",
+        "text": "FITXA TECNICA DE PRODUCTE",
+        "text_level": 1,
+        "bbox": [
+            267,
+            74,
+            731,
+            99
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Proveidor: EuroFood Wholesale B.V.",
+        "bbox": [
+            134,
+            116,
+            485,
+            133
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nom del producte: Pols de Mousse de Xocolata",
+        "bbox": [
+            134,
+            137,
+            502,
+            154
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Codi de producte: SKU-18392",
+        "bbox": [
+            136,
+            159,
+            389,
+            175
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Data d'emissio: 11/01/2026",
+        "bbox": [
+            136,
+            180,
+            388,
+            197
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ingredients",
+        "text_level": 2,
+        "bbox": [
+            90,
+            228,
+            225,
+            248
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "tahini, romaní, extracte de llevat, ou líquid sencer, farina d'arròs, midó de patata, pebre vermell, fulla de llorer.",
+        "bbox": [
+            89,
+            254,
+            867,
+            285
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INFORMACIO SOBRE AL·LERGENS",
+        "text_level": 2,
+        "bbox": [
+            90,
+            310,
+            499,
+            330
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conte: Ous, Llavors de sèsam.   \nPot contenir traces de: Mostassa, Peix.",
+        "bbox": [
+            90,
+            337,
+            389,
+            368
+        ],
+        "page_idx": 0
+    }
+]

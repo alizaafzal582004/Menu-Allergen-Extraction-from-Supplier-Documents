@@ -1,0 +1,176 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "FITXA TECNICA DE PRODUCTE"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                267,
+                74,
+                731,
+                99
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Proveidor: EuroFood Wholesale B.V."
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                116,
+                485,
+                133
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Nom del producte: Pols de Mousse de Xocolata"
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                137,
+                502,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Codi de producte: SKU-18392"
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                159,
+                389,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Data d'emissio: 11/01/2026"
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                180,
+                388,
+                197
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ingredients"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                228,
+                225,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "tahini, romaní, extracte de llevat, ou líquid sencer, farina d'arròs, midó de patata, pebre vermell, fulla de llorer."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                254,
+                867,
+                285
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INFORMACIO SOBRE AL·LERGENS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                310,
+                499,
+                330
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Conte: Ous, Llavors de sèsam."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pot contenir traces de: Mostassa, Peix."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                337,
+                389,
+                368
+            ]
+        }
+    ]
+]
